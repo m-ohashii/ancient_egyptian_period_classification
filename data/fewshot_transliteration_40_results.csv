@@ -1,0 +1,1805 @@
+text,true_period,prompt
+"""Ein Schriftrollen-Kasten ist dort aus Feuerstein in einer Kammer, deren Name, ""Archiv"" ist, und zwar in Heliopolis.",Late Period,"
+You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given German translation. Only respond with the name of the period.
+
+Examples:
+Text: Dann muß man (es) in Wasser ansetzen.
+Period: Late Period
+
+Text: Dann ist sein Gesicht infolgedessen breitgedrückt.
+Period: Late Period
+
+Text: Das bedeutet ein Beseitigen der Stirn-/Gesichtskrankheit (ein starker Schnupfen oder Katarrh?) im Kopf.
+Period: Late Period
+
+Text: Die Nicht-Untergehenden werden dir folgen.
+Period: Middle Kingdom
+
+Text: Er möge bestattet werden in der Nehkropole in der westlichen Bestattungsstätte, indem er sehr schön alt ist als Versorgter durch den König und durch den Großen Gott.
+Period: Middle Kingdom
+
+Text: Tausend an Brot, tausend an Gebäck, tausend an Bier, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Opfern.
+Period: Middle Kingdom
+
+Text: Ein Opfer, das der König und Osiris, der Herr von Busiris, Chontamenti, der Herr von Abydos, an allen seinen Plätzen geben.
+Period: New Kingdom
+
+Text: Herr der Mächte im Tjenenet-Heiligtum,
+Period: New Kingdom
+
+Text: Setze deine Arme für das Gute ein!
+Period: New Kingdom
+
+Text: Haus des Zerstampfens des Schatzhauses, Haus Unterägyptens
+Period: Old Kingdom
+
+Text: Opfern von Brot und Bier in der Kapelle des Horus Za
+Period: Old Kingdom
+
+Text: König von Ober- und Unterägypten Chasechemui-nebti-hetep-netjerui-im-ef
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: ""Ein Schriftrollen-Kasten ist dort aus Feuerstein in einer Kammer, deren Name, ""Archiv"" ist, und zwar in Heliopolis.
+
+Answer:"
+Die andere in ihrem Besitz gehörte mir.,Late Period,"
+You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given German translation. Only respond with the name of the period.
+
+Examples:
+Text: Dann muß man (es) in Wasser ansetzen.
+Period: Late Period
+
+Text: Dann ist sein Gesicht infolgedessen breitgedrückt.
+Period: Late Period
+
+Text: Das bedeutet ein Beseitigen der Stirn-/Gesichtskrankheit (ein starker Schnupfen oder Katarrh?) im Kopf.
+Period: Late Period
+
+Text: Die Nicht-Untergehenden werden dir folgen.
+Period: Middle Kingdom
+
+Text: Er möge bestattet werden in der Nehkropole in der westlichen Bestattungsstätte, indem er sehr schön alt ist als Versorgter durch den König und durch den Großen Gott.
+Period: Middle Kingdom
+
+Text: Tausend an Brot, tausend an Gebäck, tausend an Bier, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Opfern.
+Period: Middle Kingdom
+
+Text: Ein Opfer, das der König und Osiris, der Herr von Busiris, Chontamenti, der Herr von Abydos, an allen seinen Plätzen geben.
+Period: New Kingdom
+
+Text: Herr der Mächte im Tjenenet-Heiligtum,
+Period: New Kingdom
+
+Text: Setze deine Arme für das Gute ein!
+Period: New Kingdom
+
+Text: Haus des Zerstampfens des Schatzhauses, Haus Unterägyptens
+Period: Old Kingdom
+
+Text: Opfern von Brot und Bier in der Kapelle des Horus Za
+Period: Old Kingdom
+
+Text: König von Ober- und Unterägypten Chasechemui-nebti-hetep-netjerui-im-ef
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: Die andere in ihrem Besitz gehörte mir.
+
+Answer:"
+Du hast Ober- und Unterägypten vereinigt.,Late Period,"
+You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given German translation. Only respond with the name of the period.
+
+Examples:
+Text: Dann muß man (es) in Wasser ansetzen.
+Period: Late Period
+
+Text: Dann ist sein Gesicht infolgedessen breitgedrückt.
+Period: Late Period
+
+Text: Das bedeutet ein Beseitigen der Stirn-/Gesichtskrankheit (ein starker Schnupfen oder Katarrh?) im Kopf.
+Period: Late Period
+
+Text: Die Nicht-Untergehenden werden dir folgen.
+Period: Middle Kingdom
+
+Text: Er möge bestattet werden in der Nehkropole in der westlichen Bestattungsstätte, indem er sehr schön alt ist als Versorgter durch den König und durch den Großen Gott.
+Period: Middle Kingdom
+
+Text: Tausend an Brot, tausend an Gebäck, tausend an Bier, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Opfern.
+Period: Middle Kingdom
+
+Text: Ein Opfer, das der König und Osiris, der Herr von Busiris, Chontamenti, der Herr von Abydos, an allen seinen Plätzen geben.
+Period: New Kingdom
+
+Text: Herr der Mächte im Tjenenet-Heiligtum,
+Period: New Kingdom
+
+Text: Setze deine Arme für das Gute ein!
+Period: New Kingdom
+
+Text: Haus des Zerstampfens des Schatzhauses, Haus Unterägyptens
+Period: Old Kingdom
+
+Text: Opfern von Brot und Bier in der Kapelle des Horus Za
+Period: Old Kingdom
+
+Text: König von Ober- und Unterägypten Chasechemui-nebti-hetep-netjerui-im-ef
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: Du hast Ober- und Unterägypten vereinigt.
+
+Answer:"
+"– Es ist sein Hinfallen als einer, der die ganze Zeit kopfüber steht/hängt, das dafür sorgt (wörtl.: veranlasst), dass ein Wirbel in seinen Nachbarwirbel (wörtl.: seinen Zweiten, Kollegen) hineingequetscht wurde (oder: sich hineingequetscht hat). –",Late Period,"
+You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given German translation. Only respond with the name of the period.
+
+Examples:
+Text: Dann muß man (es) in Wasser ansetzen.
+Period: Late Period
+
+Text: Dann ist sein Gesicht infolgedessen breitgedrückt.
+Period: Late Period
+
+Text: Das bedeutet ein Beseitigen der Stirn-/Gesichtskrankheit (ein starker Schnupfen oder Katarrh?) im Kopf.
+Period: Late Period
+
+Text: Die Nicht-Untergehenden werden dir folgen.
+Period: Middle Kingdom
+
+Text: Er möge bestattet werden in der Nehkropole in der westlichen Bestattungsstätte, indem er sehr schön alt ist als Versorgter durch den König und durch den Großen Gott.
+Period: Middle Kingdom
+
+Text: Tausend an Brot, tausend an Gebäck, tausend an Bier, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Opfern.
+Period: Middle Kingdom
+
+Text: Ein Opfer, das der König und Osiris, der Herr von Busiris, Chontamenti, der Herr von Abydos, an allen seinen Plätzen geben.
+Period: New Kingdom
+
+Text: Herr der Mächte im Tjenenet-Heiligtum,
+Period: New Kingdom
+
+Text: Setze deine Arme für das Gute ein!
+Period: New Kingdom
+
+Text: Haus des Zerstampfens des Schatzhauses, Haus Unterägyptens
+Period: Old Kingdom
+
+Text: Opfern von Brot und Bier in der Kapelle des Horus Za
+Period: Old Kingdom
+
+Text: König von Ober- und Unterägypten Chasechemui-nebti-hetep-netjerui-im-ef
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: – Es ist sein Hinfallen als einer, der die ganze Zeit kopfüber steht/hängt, das dafür sorgt (wörtl.: veranlasst), dass ein Wirbel in seinen Nachbarwirbel (wörtl.: seinen Zweiten, Kollegen) hineingequetscht wurde (oder: sich hineingequetscht hat). –
+
+Answer:"
+(Behandlung:) Dann musst du ihn (den Patienten oder den Bruch) folglich mit $jmr.w$-Verband(?) verbinden.,Late Period,"
+You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given German translation. Only respond with the name of the period.
+
+Examples:
+Text: Dann muß man (es) in Wasser ansetzen.
+Period: Late Period
+
+Text: Dann ist sein Gesicht infolgedessen breitgedrückt.
+Period: Late Period
+
+Text: Das bedeutet ein Beseitigen der Stirn-/Gesichtskrankheit (ein starker Schnupfen oder Katarrh?) im Kopf.
+Period: Late Period
+
+Text: Die Nicht-Untergehenden werden dir folgen.
+Period: Middle Kingdom
+
+Text: Er möge bestattet werden in der Nehkropole in der westlichen Bestattungsstätte, indem er sehr schön alt ist als Versorgter durch den König und durch den Großen Gott.
+Period: Middle Kingdom
+
+Text: Tausend an Brot, tausend an Gebäck, tausend an Bier, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Opfern.
+Period: Middle Kingdom
+
+Text: Ein Opfer, das der König und Osiris, der Herr von Busiris, Chontamenti, der Herr von Abydos, an allen seinen Plätzen geben.
+Period: New Kingdom
+
+Text: Herr der Mächte im Tjenenet-Heiligtum,
+Period: New Kingdom
+
+Text: Setze deine Arme für das Gute ein!
+Period: New Kingdom
+
+Text: Haus des Zerstampfens des Schatzhauses, Haus Unterägyptens
+Period: Old Kingdom
+
+Text: Opfern von Brot und Bier in der Kapelle des Horus Za
+Period: Old Kingdom
+
+Text: König von Ober- und Unterägypten Chasechemui-nebti-hetep-netjerui-im-ef
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: (Behandlung:) Dann musst du ihn (den Patienten oder den Bruch) folglich mit $jmr.w$-Verband(?) verbinden.
+
+Answer:"
+"Sein Nacken und seine beiden Schultern werden damit entspannt (wörtl.: weichgemacht, d.h. die Steifheit/Steifigkeit im Nacken wird gelöst).",Late Period,"
+You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given German translation. Only respond with the name of the period.
+
+Examples:
+Text: Dann muß man (es) in Wasser ansetzen.
+Period: Late Period
+
+Text: Dann ist sein Gesicht infolgedessen breitgedrückt.
+Period: Late Period
+
+Text: Das bedeutet ein Beseitigen der Stirn-/Gesichtskrankheit (ein starker Schnupfen oder Katarrh?) im Kopf.
+Period: Late Period
+
+Text: Die Nicht-Untergehenden werden dir folgen.
+Period: Middle Kingdom
+
+Text: Er möge bestattet werden in der Nehkropole in der westlichen Bestattungsstätte, indem er sehr schön alt ist als Versorgter durch den König und durch den Großen Gott.
+Period: Middle Kingdom
+
+Text: Tausend an Brot, tausend an Gebäck, tausend an Bier, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Opfern.
+Period: Middle Kingdom
+
+Text: Ein Opfer, das der König und Osiris, der Herr von Busiris, Chontamenti, der Herr von Abydos, an allen seinen Plätzen geben.
+Period: New Kingdom
+
+Text: Herr der Mächte im Tjenenet-Heiligtum,
+Period: New Kingdom
+
+Text: Setze deine Arme für das Gute ein!
+Period: New Kingdom
+
+Text: Haus des Zerstampfens des Schatzhauses, Haus Unterägyptens
+Period: Old Kingdom
+
+Text: Opfern von Brot und Bier in der Kapelle des Horus Za
+Period: Old Kingdom
+
+Text: König von Ober- und Unterägypten Chasechemui-nebti-hetep-netjerui-im-ef
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: Sein Nacken und seine beiden Schultern werden damit entspannt (wörtl.: weichgemacht, d.h. die Steifheit/Steifigkeit im Nacken wird gelöst).
+
+Answer:"
+"(Untersuchung und Behandlung:) Wenn du einen Mann (d.h. Patienten) mit einer Wunde an der Vorderseite seines Gesichts (d.h. an der Stirn) untersuchst
+– die Schale seines $ḏꜣḏꜣ$-Kopfes ist zerbrochen/zersplittert –,
+dann mußt du folglich für ihn zubereiten: ein Straußenei, zerrieben in/mit Fett/Öl.",Late Period,"
+You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given German translation. Only respond with the name of the period.
+
+Examples:
+Text: Dann muß man (es) in Wasser ansetzen.
+Period: Late Period
+
+Text: Dann ist sein Gesicht infolgedessen breitgedrückt.
+Period: Late Period
+
+Text: Das bedeutet ein Beseitigen der Stirn-/Gesichtskrankheit (ein starker Schnupfen oder Katarrh?) im Kopf.
+Period: Late Period
+
+Text: Die Nicht-Untergehenden werden dir folgen.
+Period: Middle Kingdom
+
+Text: Er möge bestattet werden in der Nehkropole in der westlichen Bestattungsstätte, indem er sehr schön alt ist als Versorgter durch den König und durch den Großen Gott.
+Period: Middle Kingdom
+
+Text: Tausend an Brot, tausend an Gebäck, tausend an Bier, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Opfern.
+Period: Middle Kingdom
+
+Text: Ein Opfer, das der König und Osiris, der Herr von Busiris, Chontamenti, der Herr von Abydos, an allen seinen Plätzen geben.
+Period: New Kingdom
+
+Text: Herr der Mächte im Tjenenet-Heiligtum,
+Period: New Kingdom
+
+Text: Setze deine Arme für das Gute ein!
+Period: New Kingdom
+
+Text: Haus des Zerstampfens des Schatzhauses, Haus Unterägyptens
+Period: Old Kingdom
+
+Text: Opfern von Brot und Bier in der Kapelle des Horus Za
+Period: Old Kingdom
+
+Text: König von Ober- und Unterägypten Chasechemui-nebti-hetep-netjerui-im-ef
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: (Untersuchung und Behandlung:) Wenn du einen Mann (d.h. Patienten) mit einer Wunde an der Vorderseite seines Gesichts (d.h. an der Stirn) untersuchst
+– die Schale seines $ḏꜣḏꜣ$-Kopfes ist zerbrochen/zersplittert –,
+dann mußt du folglich für ihn zubereiten: ein Straußenei, zerrieben in/mit Fett/Öl.
+
+Answer:"
+Daraufhin sagte sie zu mir:,Late Period,"
+You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given German translation. Only respond with the name of the period.
+
+Examples:
+Text: Dann muß man (es) in Wasser ansetzen.
+Period: Late Period
+
+Text: Dann ist sein Gesicht infolgedessen breitgedrückt.
+Period: Late Period
+
+Text: Das bedeutet ein Beseitigen der Stirn-/Gesichtskrankheit (ein starker Schnupfen oder Katarrh?) im Kopf.
+Period: Late Period
+
+Text: Die Nicht-Untergehenden werden dir folgen.
+Period: Middle Kingdom
+
+Text: Er möge bestattet werden in der Nehkropole in der westlichen Bestattungsstätte, indem er sehr schön alt ist als Versorgter durch den König und durch den Großen Gott.
+Period: Middle Kingdom
+
+Text: Tausend an Brot, tausend an Gebäck, tausend an Bier, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Opfern.
+Period: Middle Kingdom
+
+Text: Ein Opfer, das der König und Osiris, der Herr von Busiris, Chontamenti, der Herr von Abydos, an allen seinen Plätzen geben.
+Period: New Kingdom
+
+Text: Herr der Mächte im Tjenenet-Heiligtum,
+Period: New Kingdom
+
+Text: Setze deine Arme für das Gute ein!
+Period: New Kingdom
+
+Text: Haus des Zerstampfens des Schatzhauses, Haus Unterägyptens
+Period: Old Kingdom
+
+Text: Opfern von Brot und Bier in der Kapelle des Horus Za
+Period: Old Kingdom
+
+Text: König von Ober- und Unterägypten Chasechemui-nebti-hetep-netjerui-im-ef
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: Daraufhin sagte sie zu mir:
+
+Answer:"
+"sein Herz ist (zu) müde/erschöpft, um zu reden.",Late Period,"
+You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given German translation. Only respond with the name of the period.
+
+Examples:
+Text: Dann muß man (es) in Wasser ansetzen.
+Period: Late Period
+
+Text: Dann ist sein Gesicht infolgedessen breitgedrückt.
+Period: Late Period
+
+Text: Das bedeutet ein Beseitigen der Stirn-/Gesichtskrankheit (ein starker Schnupfen oder Katarrh?) im Kopf.
+Period: Late Period
+
+Text: Die Nicht-Untergehenden werden dir folgen.
+Period: Middle Kingdom
+
+Text: Er möge bestattet werden in der Nehkropole in der westlichen Bestattungsstätte, indem er sehr schön alt ist als Versorgter durch den König und durch den Großen Gott.
+Period: Middle Kingdom
+
+Text: Tausend an Brot, tausend an Gebäck, tausend an Bier, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Opfern.
+Period: Middle Kingdom
+
+Text: Ein Opfer, das der König und Osiris, der Herr von Busiris, Chontamenti, der Herr von Abydos, an allen seinen Plätzen geben.
+Period: New Kingdom
+
+Text: Herr der Mächte im Tjenenet-Heiligtum,
+Period: New Kingdom
+
+Text: Setze deine Arme für das Gute ein!
+Period: New Kingdom
+
+Text: Haus des Zerstampfens des Schatzhauses, Haus Unterägyptens
+Period: Old Kingdom
+
+Text: Opfern von Brot und Bier in der Kapelle des Horus Za
+Period: Old Kingdom
+
+Text: König von Ober- und Unterägypten Chasechemui-nebti-hetep-netjerui-im-ef
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: sein Herz ist (zu) müde/erschöpft, um zu reden.
+
+Answer:"
+"(indem) er nicht in der Lage ist, auf seine Schultern und seine Brust zu blicken:",Late Period,"
+You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given German translation. Only respond with the name of the period.
+
+Examples:
+Text: Dann muß man (es) in Wasser ansetzen.
+Period: Late Period
+
+Text: Dann ist sein Gesicht infolgedessen breitgedrückt.
+Period: Late Period
+
+Text: Das bedeutet ein Beseitigen der Stirn-/Gesichtskrankheit (ein starker Schnupfen oder Katarrh?) im Kopf.
+Period: Late Period
+
+Text: Die Nicht-Untergehenden werden dir folgen.
+Period: Middle Kingdom
+
+Text: Er möge bestattet werden in der Nehkropole in der westlichen Bestattungsstätte, indem er sehr schön alt ist als Versorgter durch den König und durch den Großen Gott.
+Period: Middle Kingdom
+
+Text: Tausend an Brot, tausend an Gebäck, tausend an Bier, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Opfern.
+Period: Middle Kingdom
+
+Text: Ein Opfer, das der König und Osiris, der Herr von Busiris, Chontamenti, der Herr von Abydos, an allen seinen Plätzen geben.
+Period: New Kingdom
+
+Text: Herr der Mächte im Tjenenet-Heiligtum,
+Period: New Kingdom
+
+Text: Setze deine Arme für das Gute ein!
+Period: New Kingdom
+
+Text: Haus des Zerstampfens des Schatzhauses, Haus Unterägyptens
+Period: Old Kingdom
+
+Text: Opfern von Brot und Bier in der Kapelle des Horus Za
+Period: Old Kingdom
+
+Text: König von Ober- und Unterägypten Chasechemui-nebti-hetep-netjerui-im-ef
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: (indem) er nicht in der Lage ist, auf seine Schultern und seine Brust zu blicken:
+
+Answer:"
+"Ostgau (14.u.äg. Gau): Die Meret-Horus wünscht, dass Teti lebt (Domäne).",Middle Kingdom,"
+You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given German translation. Only respond with the name of the period.
+
+Examples:
+Text: Dann muß man (es) in Wasser ansetzen.
+Period: Late Period
+
+Text: Dann ist sein Gesicht infolgedessen breitgedrückt.
+Period: Late Period
+
+Text: Das bedeutet ein Beseitigen der Stirn-/Gesichtskrankheit (ein starker Schnupfen oder Katarrh?) im Kopf.
+Period: Late Period
+
+Text: Die Nicht-Untergehenden werden dir folgen.
+Period: Middle Kingdom
+
+Text: Er möge bestattet werden in der Nehkropole in der westlichen Bestattungsstätte, indem er sehr schön alt ist als Versorgter durch den König und durch den Großen Gott.
+Period: Middle Kingdom
+
+Text: Tausend an Brot, tausend an Gebäck, tausend an Bier, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Opfern.
+Period: Middle Kingdom
+
+Text: Ein Opfer, das der König und Osiris, der Herr von Busiris, Chontamenti, der Herr von Abydos, an allen seinen Plätzen geben.
+Period: New Kingdom
+
+Text: Herr der Mächte im Tjenenet-Heiligtum,
+Period: New Kingdom
+
+Text: Setze deine Arme für das Gute ein!
+Period: New Kingdom
+
+Text: Haus des Zerstampfens des Schatzhauses, Haus Unterägyptens
+Period: Old Kingdom
+
+Text: Opfern von Brot und Bier in der Kapelle des Horus Za
+Period: Old Kingdom
+
+Text: König von Ober- und Unterägypten Chasechemui-nebti-hetep-netjerui-im-ef
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: Ostgau (14.u.äg. Gau): Die Meret-Horus wünscht, dass Teti lebt (Domäne).
+
+Answer:"
+Der Versorgte beim großen Gott Chnumentj.,Middle Kingdom,"
+You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given German translation. Only respond with the name of the period.
+
+Examples:
+Text: Dann muß man (es) in Wasser ansetzen.
+Period: Late Period
+
+Text: Dann ist sein Gesicht infolgedessen breitgedrückt.
+Period: Late Period
+
+Text: Das bedeutet ein Beseitigen der Stirn-/Gesichtskrankheit (ein starker Schnupfen oder Katarrh?) im Kopf.
+Period: Late Period
+
+Text: Die Nicht-Untergehenden werden dir folgen.
+Period: Middle Kingdom
+
+Text: Er möge bestattet werden in der Nehkropole in der westlichen Bestattungsstätte, indem er sehr schön alt ist als Versorgter durch den König und durch den Großen Gott.
+Period: Middle Kingdom
+
+Text: Tausend an Brot, tausend an Gebäck, tausend an Bier, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Opfern.
+Period: Middle Kingdom
+
+Text: Ein Opfer, das der König und Osiris, der Herr von Busiris, Chontamenti, der Herr von Abydos, an allen seinen Plätzen geben.
+Period: New Kingdom
+
+Text: Herr der Mächte im Tjenenet-Heiligtum,
+Period: New Kingdom
+
+Text: Setze deine Arme für das Gute ein!
+Period: New Kingdom
+
+Text: Haus des Zerstampfens des Schatzhauses, Haus Unterägyptens
+Period: Old Kingdom
+
+Text: Opfern von Brot und Bier in der Kapelle des Horus Za
+Period: Old Kingdom
+
+Text: König von Ober- und Unterägypten Chasechemui-nebti-hetep-netjerui-im-ef
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: Der Versorgte beim großen Gott Chnumentj.
+
+Answer:"
+"Die Überschwemmungszeit kommt, der Ausfluss, der aus Osiris hervorgekommen ist, verteilt sich (?).",Middle Kingdom,"
+You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given German translation. Only respond with the name of the period.
+
+Examples:
+Text: Dann muß man (es) in Wasser ansetzen.
+Period: Late Period
+
+Text: Dann ist sein Gesicht infolgedessen breitgedrückt.
+Period: Late Period
+
+Text: Das bedeutet ein Beseitigen der Stirn-/Gesichtskrankheit (ein starker Schnupfen oder Katarrh?) im Kopf.
+Period: Late Period
+
+Text: Die Nicht-Untergehenden werden dir folgen.
+Period: Middle Kingdom
+
+Text: Er möge bestattet werden in der Nehkropole in der westlichen Bestattungsstätte, indem er sehr schön alt ist als Versorgter durch den König und durch den Großen Gott.
+Period: Middle Kingdom
+
+Text: Tausend an Brot, tausend an Gebäck, tausend an Bier, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Opfern.
+Period: Middle Kingdom
+
+Text: Ein Opfer, das der König und Osiris, der Herr von Busiris, Chontamenti, der Herr von Abydos, an allen seinen Plätzen geben.
+Period: New Kingdom
+
+Text: Herr der Mächte im Tjenenet-Heiligtum,
+Period: New Kingdom
+
+Text: Setze deine Arme für das Gute ein!
+Period: New Kingdom
+
+Text: Haus des Zerstampfens des Schatzhauses, Haus Unterägyptens
+Period: Old Kingdom
+
+Text: Opfern von Brot und Bier in der Kapelle des Horus Za
+Period: Old Kingdom
+
+Text: König von Ober- und Unterägypten Chasechemui-nebti-hetep-netjerui-im-ef
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: Die Überschwemmungszeit kommt, der Ausfluss, der aus Osiris hervorgekommen ist, verteilt sich (?).
+
+Answer:"
+"Er (Seth) ist also gekommen und hat gesagt, daß er dich töten werde.",Middle Kingdom,"
+You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given German translation. Only respond with the name of the period.
+
+Examples:
+Text: Dann muß man (es) in Wasser ansetzen.
+Period: Late Period
+
+Text: Dann ist sein Gesicht infolgedessen breitgedrückt.
+Period: Late Period
+
+Text: Das bedeutet ein Beseitigen der Stirn-/Gesichtskrankheit (ein starker Schnupfen oder Katarrh?) im Kopf.
+Period: Late Period
+
+Text: Die Nicht-Untergehenden werden dir folgen.
+Period: Middle Kingdom
+
+Text: Er möge bestattet werden in der Nehkropole in der westlichen Bestattungsstätte, indem er sehr schön alt ist als Versorgter durch den König und durch den Großen Gott.
+Period: Middle Kingdom
+
+Text: Tausend an Brot, tausend an Gebäck, tausend an Bier, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Opfern.
+Period: Middle Kingdom
+
+Text: Ein Opfer, das der König und Osiris, der Herr von Busiris, Chontamenti, der Herr von Abydos, an allen seinen Plätzen geben.
+Period: New Kingdom
+
+Text: Herr der Mächte im Tjenenet-Heiligtum,
+Period: New Kingdom
+
+Text: Setze deine Arme für das Gute ein!
+Period: New Kingdom
+
+Text: Haus des Zerstampfens des Schatzhauses, Haus Unterägyptens
+Period: Old Kingdom
+
+Text: Opfern von Brot und Bier in der Kapelle des Horus Za
+Period: Old Kingdom
+
+Text: König von Ober- und Unterägypten Chasechemui-nebti-hetep-netjerui-im-ef
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: Er (Seth) ist also gekommen und hat gesagt, daß er dich töten werde.
+
+Answer:"
+"Scheschi möge den Westen finden, indem er zu dem Großen Gott erhoben ist, (nämlich) der Vorsteher jeder Arbeit des Königs, Kammerdiener des Königs, Leiter des Volkes (und) Pfeiler der Leopardenhaut Neferseschemre.",Middle Kingdom,"
+You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given German translation. Only respond with the name of the period.
+
+Examples:
+Text: Dann muß man (es) in Wasser ansetzen.
+Period: Late Period
+
+Text: Dann ist sein Gesicht infolgedessen breitgedrückt.
+Period: Late Period
+
+Text: Das bedeutet ein Beseitigen der Stirn-/Gesichtskrankheit (ein starker Schnupfen oder Katarrh?) im Kopf.
+Period: Late Period
+
+Text: Die Nicht-Untergehenden werden dir folgen.
+Period: Middle Kingdom
+
+Text: Er möge bestattet werden in der Nehkropole in der westlichen Bestattungsstätte, indem er sehr schön alt ist als Versorgter durch den König und durch den Großen Gott.
+Period: Middle Kingdom
+
+Text: Tausend an Brot, tausend an Gebäck, tausend an Bier, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Opfern.
+Period: Middle Kingdom
+
+Text: Ein Opfer, das der König und Osiris, der Herr von Busiris, Chontamenti, der Herr von Abydos, an allen seinen Plätzen geben.
+Period: New Kingdom
+
+Text: Herr der Mächte im Tjenenet-Heiligtum,
+Period: New Kingdom
+
+Text: Setze deine Arme für das Gute ein!
+Period: New Kingdom
+
+Text: Haus des Zerstampfens des Schatzhauses, Haus Unterägyptens
+Period: Old Kingdom
+
+Text: Opfern von Brot und Bier in der Kapelle des Horus Za
+Period: Old Kingdom
+
+Text: König von Ober- und Unterägypten Chasechemui-nebti-hetep-netjerui-im-ef
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: Scheschi möge den Westen finden, indem er zu dem Großen Gott erhoben ist, (nämlich) der Vorsteher jeder Arbeit des Königs, Kammerdiener des Königs, Leiter des Volkes (und) Pfeiler der Leopardenhaut Neferseschemre.
+
+Answer:"
+"Osiris Neith, nimm dir das Wasser, das im Horusauge ist.",Middle Kingdom,"
+You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given German translation. Only respond with the name of the period.
+
+Examples:
+Text: Dann muß man (es) in Wasser ansetzen.
+Period: Late Period
+
+Text: Dann ist sein Gesicht infolgedessen breitgedrückt.
+Period: Late Period
+
+Text: Das bedeutet ein Beseitigen der Stirn-/Gesichtskrankheit (ein starker Schnupfen oder Katarrh?) im Kopf.
+Period: Late Period
+
+Text: Die Nicht-Untergehenden werden dir folgen.
+Period: Middle Kingdom
+
+Text: Er möge bestattet werden in der Nehkropole in der westlichen Bestattungsstätte, indem er sehr schön alt ist als Versorgter durch den König und durch den Großen Gott.
+Period: Middle Kingdom
+
+Text: Tausend an Brot, tausend an Gebäck, tausend an Bier, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Opfern.
+Period: Middle Kingdom
+
+Text: Ein Opfer, das der König und Osiris, der Herr von Busiris, Chontamenti, der Herr von Abydos, an allen seinen Plätzen geben.
+Period: New Kingdom
+
+Text: Herr der Mächte im Tjenenet-Heiligtum,
+Period: New Kingdom
+
+Text: Setze deine Arme für das Gute ein!
+Period: New Kingdom
+
+Text: Haus des Zerstampfens des Schatzhauses, Haus Unterägyptens
+Period: Old Kingdom
+
+Text: Opfern von Brot und Bier in der Kapelle des Horus Za
+Period: Old Kingdom
+
+Text: König von Ober- und Unterägypten Chasechemui-nebti-hetep-netjerui-im-ef
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: Osiris Neith, nimm dir das Wasser, das im Horusauge ist.
+
+Answer:"
+Horus hat (es) dir gegeben.,Middle Kingdom,"
+You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given German translation. Only respond with the name of the period.
+
+Examples:
+Text: Dann muß man (es) in Wasser ansetzen.
+Period: Late Period
+
+Text: Dann ist sein Gesicht infolgedessen breitgedrückt.
+Period: Late Period
+
+Text: Das bedeutet ein Beseitigen der Stirn-/Gesichtskrankheit (ein starker Schnupfen oder Katarrh?) im Kopf.
+Period: Late Period
+
+Text: Die Nicht-Untergehenden werden dir folgen.
+Period: Middle Kingdom
+
+Text: Er möge bestattet werden in der Nehkropole in der westlichen Bestattungsstätte, indem er sehr schön alt ist als Versorgter durch den König und durch den Großen Gott.
+Period: Middle Kingdom
+
+Text: Tausend an Brot, tausend an Gebäck, tausend an Bier, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Opfern.
+Period: Middle Kingdom
+
+Text: Ein Opfer, das der König und Osiris, der Herr von Busiris, Chontamenti, der Herr von Abydos, an allen seinen Plätzen geben.
+Period: New Kingdom
+
+Text: Herr der Mächte im Tjenenet-Heiligtum,
+Period: New Kingdom
+
+Text: Setze deine Arme für das Gute ein!
+Period: New Kingdom
+
+Text: Haus des Zerstampfens des Schatzhauses, Haus Unterägyptens
+Period: Old Kingdom
+
+Text: Opfern von Brot und Bier in der Kapelle des Horus Za
+Period: Old Kingdom
+
+Text: König von Ober- und Unterägypten Chasechemui-nebti-hetep-netjerui-im-ef
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: Horus hat (es) dir gegeben.
+
+Answer:"
+und er wird sich nicht von dir entfernen.,Middle Kingdom,"
+You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given German translation. Only respond with the name of the period.
+
+Examples:
+Text: Dann muß man (es) in Wasser ansetzen.
+Period: Late Period
+
+Text: Dann ist sein Gesicht infolgedessen breitgedrückt.
+Period: Late Period
+
+Text: Das bedeutet ein Beseitigen der Stirn-/Gesichtskrankheit (ein starker Schnupfen oder Katarrh?) im Kopf.
+Period: Late Period
+
+Text: Die Nicht-Untergehenden werden dir folgen.
+Period: Middle Kingdom
+
+Text: Er möge bestattet werden in der Nehkropole in der westlichen Bestattungsstätte, indem er sehr schön alt ist als Versorgter durch den König und durch den Großen Gott.
+Period: Middle Kingdom
+
+Text: Tausend an Brot, tausend an Gebäck, tausend an Bier, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Opfern.
+Period: Middle Kingdom
+
+Text: Ein Opfer, das der König und Osiris, der Herr von Busiris, Chontamenti, der Herr von Abydos, an allen seinen Plätzen geben.
+Period: New Kingdom
+
+Text: Herr der Mächte im Tjenenet-Heiligtum,
+Period: New Kingdom
+
+Text: Setze deine Arme für das Gute ein!
+Period: New Kingdom
+
+Text: Haus des Zerstampfens des Schatzhauses, Haus Unterägyptens
+Period: Old Kingdom
+
+Text: Opfern von Brot und Bier in der Kapelle des Horus Za
+Period: Old Kingdom
+
+Text: König von Ober- und Unterägypten Chasechemui-nebti-hetep-netjerui-im-ef
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: und er wird sich nicht von dir entfernen.
+
+Answer:"
+Deine beiden Gifttropfen sind an deinen Backen(?).,Middle Kingdom,"
+You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given German translation. Only respond with the name of the period.
+
+Examples:
+Text: Dann muß man (es) in Wasser ansetzen.
+Period: Late Period
+
+Text: Dann ist sein Gesicht infolgedessen breitgedrückt.
+Period: Late Period
+
+Text: Das bedeutet ein Beseitigen der Stirn-/Gesichtskrankheit (ein starker Schnupfen oder Katarrh?) im Kopf.
+Period: Late Period
+
+Text: Die Nicht-Untergehenden werden dir folgen.
+Period: Middle Kingdom
+
+Text: Er möge bestattet werden in der Nehkropole in der westlichen Bestattungsstätte, indem er sehr schön alt ist als Versorgter durch den König und durch den Großen Gott.
+Period: Middle Kingdom
+
+Text: Tausend an Brot, tausend an Gebäck, tausend an Bier, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Opfern.
+Period: Middle Kingdom
+
+Text: Ein Opfer, das der König und Osiris, der Herr von Busiris, Chontamenti, der Herr von Abydos, an allen seinen Plätzen geben.
+Period: New Kingdom
+
+Text: Herr der Mächte im Tjenenet-Heiligtum,
+Period: New Kingdom
+
+Text: Setze deine Arme für das Gute ein!
+Period: New Kingdom
+
+Text: Haus des Zerstampfens des Schatzhauses, Haus Unterägyptens
+Period: Old Kingdom
+
+Text: Opfern von Brot und Bier in der Kapelle des Horus Za
+Period: Old Kingdom
+
+Text: König von Ober- und Unterägypten Chasechemui-nebti-hetep-netjerui-im-ef
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: Deine beiden Gifttropfen sind an deinen Backen(?).
+
+Answer:"
+"Horus ist gekommen, damit er dich (auf Vollständigkeit) prüfe(?) (lit.: zähle)/erkenne.",Middle Kingdom,"
+You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given German translation. Only respond with the name of the period.
+
+Examples:
+Text: Dann muß man (es) in Wasser ansetzen.
+Period: Late Period
+
+Text: Dann ist sein Gesicht infolgedessen breitgedrückt.
+Period: Late Period
+
+Text: Das bedeutet ein Beseitigen der Stirn-/Gesichtskrankheit (ein starker Schnupfen oder Katarrh?) im Kopf.
+Period: Late Period
+
+Text: Die Nicht-Untergehenden werden dir folgen.
+Period: Middle Kingdom
+
+Text: Er möge bestattet werden in der Nehkropole in der westlichen Bestattungsstätte, indem er sehr schön alt ist als Versorgter durch den König und durch den Großen Gott.
+Period: Middle Kingdom
+
+Text: Tausend an Brot, tausend an Gebäck, tausend an Bier, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Opfern.
+Period: Middle Kingdom
+
+Text: Ein Opfer, das der König und Osiris, der Herr von Busiris, Chontamenti, der Herr von Abydos, an allen seinen Plätzen geben.
+Period: New Kingdom
+
+Text: Herr der Mächte im Tjenenet-Heiligtum,
+Period: New Kingdom
+
+Text: Setze deine Arme für das Gute ein!
+Period: New Kingdom
+
+Text: Haus des Zerstampfens des Schatzhauses, Haus Unterägyptens
+Period: Old Kingdom
+
+Text: Opfern von Brot und Bier in der Kapelle des Horus Za
+Period: Old Kingdom
+
+Text: König von Ober- und Unterägypten Chasechemui-nebti-hetep-netjerui-im-ef
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: Horus ist gekommen, damit er dich (auf Vollständigkeit) prüfe(?) (lit.: zähle)/erkenne.
+
+Answer:"
+"(Sondern) gib ihr zu essen (wörtl.: sorge dafür, daß sie ißt)!",New Kingdom,"
+You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given German translation. Only respond with the name of the period.
+
+Examples:
+Text: Dann muß man (es) in Wasser ansetzen.
+Period: Late Period
+
+Text: Dann ist sein Gesicht infolgedessen breitgedrückt.
+Period: Late Period
+
+Text: Das bedeutet ein Beseitigen der Stirn-/Gesichtskrankheit (ein starker Schnupfen oder Katarrh?) im Kopf.
+Period: Late Period
+
+Text: Die Nicht-Untergehenden werden dir folgen.
+Period: Middle Kingdom
+
+Text: Er möge bestattet werden in der Nehkropole in der westlichen Bestattungsstätte, indem er sehr schön alt ist als Versorgter durch den König und durch den Großen Gott.
+Period: Middle Kingdom
+
+Text: Tausend an Brot, tausend an Gebäck, tausend an Bier, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Opfern.
+Period: Middle Kingdom
+
+Text: Ein Opfer, das der König und Osiris, der Herr von Busiris, Chontamenti, der Herr von Abydos, an allen seinen Plätzen geben.
+Period: New Kingdom
+
+Text: Herr der Mächte im Tjenenet-Heiligtum,
+Period: New Kingdom
+
+Text: Setze deine Arme für das Gute ein!
+Period: New Kingdom
+
+Text: Haus des Zerstampfens des Schatzhauses, Haus Unterägyptens
+Period: Old Kingdom
+
+Text: Opfern von Brot und Bier in der Kapelle des Horus Za
+Period: Old Kingdom
+
+Text: König von Ober- und Unterägypten Chasechemui-nebti-hetep-netjerui-im-ef
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: (Sondern) gib ihr zu essen (wörtl.: sorge dafür, daß sie ißt)!
+
+Answer:"
+"Als Horus, Herr der Wereret-Krone, bin ich herausgekommen, nachdem ich die Gunst des Upuaut empfangen habe.",New Kingdom,"
+You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given German translation. Only respond with the name of the period.
+
+Examples:
+Text: Dann muß man (es) in Wasser ansetzen.
+Period: Late Period
+
+Text: Dann ist sein Gesicht infolgedessen breitgedrückt.
+Period: Late Period
+
+Text: Das bedeutet ein Beseitigen der Stirn-/Gesichtskrankheit (ein starker Schnupfen oder Katarrh?) im Kopf.
+Period: Late Period
+
+Text: Die Nicht-Untergehenden werden dir folgen.
+Period: Middle Kingdom
+
+Text: Er möge bestattet werden in der Nehkropole in der westlichen Bestattungsstätte, indem er sehr schön alt ist als Versorgter durch den König und durch den Großen Gott.
+Period: Middle Kingdom
+
+Text: Tausend an Brot, tausend an Gebäck, tausend an Bier, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Opfern.
+Period: Middle Kingdom
+
+Text: Ein Opfer, das der König und Osiris, der Herr von Busiris, Chontamenti, der Herr von Abydos, an allen seinen Plätzen geben.
+Period: New Kingdom
+
+Text: Herr der Mächte im Tjenenet-Heiligtum,
+Period: New Kingdom
+
+Text: Setze deine Arme für das Gute ein!
+Period: New Kingdom
+
+Text: Haus des Zerstampfens des Schatzhauses, Haus Unterägyptens
+Period: Old Kingdom
+
+Text: Opfern von Brot und Bier in der Kapelle des Horus Za
+Period: Old Kingdom
+
+Text: König von Ober- und Unterägypten Chasechemui-nebti-hetep-netjerui-im-ef
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: Als Horus, Herr der Wereret-Krone, bin ich herausgekommen, nachdem ich die Gunst des Upuaut empfangen habe.
+
+Answer:"
+sie kann nicht sehen und leidet an ihrem Nacken:,New Kingdom,"
+You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given German translation. Only respond with the name of the period.
+
+Examples:
+Text: Dann muß man (es) in Wasser ansetzen.
+Period: Late Period
+
+Text: Dann ist sein Gesicht infolgedessen breitgedrückt.
+Period: Late Period
+
+Text: Das bedeutet ein Beseitigen der Stirn-/Gesichtskrankheit (ein starker Schnupfen oder Katarrh?) im Kopf.
+Period: Late Period
+
+Text: Die Nicht-Untergehenden werden dir folgen.
+Period: Middle Kingdom
+
+Text: Er möge bestattet werden in der Nehkropole in der westlichen Bestattungsstätte, indem er sehr schön alt ist als Versorgter durch den König und durch den Großen Gott.
+Period: Middle Kingdom
+
+Text: Tausend an Brot, tausend an Gebäck, tausend an Bier, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Opfern.
+Period: Middle Kingdom
+
+Text: Ein Opfer, das der König und Osiris, der Herr von Busiris, Chontamenti, der Herr von Abydos, an allen seinen Plätzen geben.
+Period: New Kingdom
+
+Text: Herr der Mächte im Tjenenet-Heiligtum,
+Period: New Kingdom
+
+Text: Setze deine Arme für das Gute ein!
+Period: New Kingdom
+
+Text: Haus des Zerstampfens des Schatzhauses, Haus Unterägyptens
+Period: Old Kingdom
+
+Text: Opfern von Brot und Bier in der Kapelle des Horus Za
+Period: Old Kingdom
+
+Text: König von Ober- und Unterägypten Chasechemui-nebti-hetep-netjerui-im-ef
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: sie kann nicht sehen und leidet an ihrem Nacken:
+
+Answer:"
+Eine Rede verschwindet hinterher nicht.,New Kingdom,"
+You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given German translation. Only respond with the name of the period.
+
+Examples:
+Text: Dann muß man (es) in Wasser ansetzen.
+Period: Late Period
+
+Text: Dann ist sein Gesicht infolgedessen breitgedrückt.
+Period: Late Period
+
+Text: Das bedeutet ein Beseitigen der Stirn-/Gesichtskrankheit (ein starker Schnupfen oder Katarrh?) im Kopf.
+Period: Late Period
+
+Text: Die Nicht-Untergehenden werden dir folgen.
+Period: Middle Kingdom
+
+Text: Er möge bestattet werden in der Nehkropole in der westlichen Bestattungsstätte, indem er sehr schön alt ist als Versorgter durch den König und durch den Großen Gott.
+Period: Middle Kingdom
+
+Text: Tausend an Brot, tausend an Gebäck, tausend an Bier, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Opfern.
+Period: Middle Kingdom
+
+Text: Ein Opfer, das der König und Osiris, der Herr von Busiris, Chontamenti, der Herr von Abydos, an allen seinen Plätzen geben.
+Period: New Kingdom
+
+Text: Herr der Mächte im Tjenenet-Heiligtum,
+Period: New Kingdom
+
+Text: Setze deine Arme für das Gute ein!
+Period: New Kingdom
+
+Text: Haus des Zerstampfens des Schatzhauses, Haus Unterägyptens
+Period: Old Kingdom
+
+Text: Opfern von Brot und Bier in der Kapelle des Horus Za
+Period: Old Kingdom
+
+Text: König von Ober- und Unterägypten Chasechemui-nebti-hetep-netjerui-im-ef
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: Eine Rede verschwindet hinterher nicht.
+
+Answer:"
+Jeder Gott ist unter deiner Liebe.,New Kingdom,"
+You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given German translation. Only respond with the name of the period.
+
+Examples:
+Text: Dann muß man (es) in Wasser ansetzen.
+Period: Late Period
+
+Text: Dann ist sein Gesicht infolgedessen breitgedrückt.
+Period: Late Period
+
+Text: Das bedeutet ein Beseitigen der Stirn-/Gesichtskrankheit (ein starker Schnupfen oder Katarrh?) im Kopf.
+Period: Late Period
+
+Text: Die Nicht-Untergehenden werden dir folgen.
+Period: Middle Kingdom
+
+Text: Er möge bestattet werden in der Nehkropole in der westlichen Bestattungsstätte, indem er sehr schön alt ist als Versorgter durch den König und durch den Großen Gott.
+Period: Middle Kingdom
+
+Text: Tausend an Brot, tausend an Gebäck, tausend an Bier, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Opfern.
+Period: Middle Kingdom
+
+Text: Ein Opfer, das der König und Osiris, der Herr von Busiris, Chontamenti, der Herr von Abydos, an allen seinen Plätzen geben.
+Period: New Kingdom
+
+Text: Herr der Mächte im Tjenenet-Heiligtum,
+Period: New Kingdom
+
+Text: Setze deine Arme für das Gute ein!
+Period: New Kingdom
+
+Text: Haus des Zerstampfens des Schatzhauses, Haus Unterägyptens
+Period: Old Kingdom
+
+Text: Opfern von Brot und Bier in der Kapelle des Horus Za
+Period: Old Kingdom
+
+Text: König von Ober- und Unterägypten Chasechemui-nebti-hetep-netjerui-im-ef
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: Jeder Gott ist unter deiner Liebe.
+
+Answer:"
+"Ist (es) nicht für dich, so ist (es) nicht für sie.",New Kingdom,"
+You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given German translation. Only respond with the name of the period.
+
+Examples:
+Text: Dann muß man (es) in Wasser ansetzen.
+Period: Late Period
+
+Text: Dann ist sein Gesicht infolgedessen breitgedrückt.
+Period: Late Period
+
+Text: Das bedeutet ein Beseitigen der Stirn-/Gesichtskrankheit (ein starker Schnupfen oder Katarrh?) im Kopf.
+Period: Late Period
+
+Text: Die Nicht-Untergehenden werden dir folgen.
+Period: Middle Kingdom
+
+Text: Er möge bestattet werden in der Nehkropole in der westlichen Bestattungsstätte, indem er sehr schön alt ist als Versorgter durch den König und durch den Großen Gott.
+Period: Middle Kingdom
+
+Text: Tausend an Brot, tausend an Gebäck, tausend an Bier, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Opfern.
+Period: Middle Kingdom
+
+Text: Ein Opfer, das der König und Osiris, der Herr von Busiris, Chontamenti, der Herr von Abydos, an allen seinen Plätzen geben.
+Period: New Kingdom
+
+Text: Herr der Mächte im Tjenenet-Heiligtum,
+Period: New Kingdom
+
+Text: Setze deine Arme für das Gute ein!
+Period: New Kingdom
+
+Text: Haus des Zerstampfens des Schatzhauses, Haus Unterägyptens
+Period: Old Kingdom
+
+Text: Opfern von Brot und Bier in der Kapelle des Horus Za
+Period: Old Kingdom
+
+Text: König von Ober- und Unterägypten Chasechemui-nebti-hetep-netjerui-im-ef
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: Ist (es) nicht für dich, so ist (es) nicht für sie.
+
+Answer:"
+"Es gibt keinen Freund für den, der gegenüber der Wahrheit taub ist.",New Kingdom,"
+You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given German translation. Only respond with the name of the period.
+
+Examples:
+Text: Dann muß man (es) in Wasser ansetzen.
+Period: Late Period
+
+Text: Dann ist sein Gesicht infolgedessen breitgedrückt.
+Period: Late Period
+
+Text: Das bedeutet ein Beseitigen der Stirn-/Gesichtskrankheit (ein starker Schnupfen oder Katarrh?) im Kopf.
+Period: Late Period
+
+Text: Die Nicht-Untergehenden werden dir folgen.
+Period: Middle Kingdom
+
+Text: Er möge bestattet werden in der Nehkropole in der westlichen Bestattungsstätte, indem er sehr schön alt ist als Versorgter durch den König und durch den Großen Gott.
+Period: Middle Kingdom
+
+Text: Tausend an Brot, tausend an Gebäck, tausend an Bier, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Opfern.
+Period: Middle Kingdom
+
+Text: Ein Opfer, das der König und Osiris, der Herr von Busiris, Chontamenti, der Herr von Abydos, an allen seinen Plätzen geben.
+Period: New Kingdom
+
+Text: Herr der Mächte im Tjenenet-Heiligtum,
+Period: New Kingdom
+
+Text: Setze deine Arme für das Gute ein!
+Period: New Kingdom
+
+Text: Haus des Zerstampfens des Schatzhauses, Haus Unterägyptens
+Period: Old Kingdom
+
+Text: Opfern von Brot und Bier in der Kapelle des Horus Za
+Period: Old Kingdom
+
+Text: König von Ober- und Unterägypten Chasechemui-nebti-hetep-netjerui-im-ef
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: Es gibt keinen Freund für den, der gegenüber der Wahrheit taub ist.
+
+Answer:"
+"Es ist (doch) so, daß dein Bedarf in deinem Haus ist.",New Kingdom,"
+You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given German translation. Only respond with the name of the period.
+
+Examples:
+Text: Dann muß man (es) in Wasser ansetzen.
+Period: Late Period
+
+Text: Dann ist sein Gesicht infolgedessen breitgedrückt.
+Period: Late Period
+
+Text: Das bedeutet ein Beseitigen der Stirn-/Gesichtskrankheit (ein starker Schnupfen oder Katarrh?) im Kopf.
+Period: Late Period
+
+Text: Die Nicht-Untergehenden werden dir folgen.
+Period: Middle Kingdom
+
+Text: Er möge bestattet werden in der Nehkropole in der westlichen Bestattungsstätte, indem er sehr schön alt ist als Versorgter durch den König und durch den Großen Gott.
+Period: Middle Kingdom
+
+Text: Tausend an Brot, tausend an Gebäck, tausend an Bier, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Opfern.
+Period: Middle Kingdom
+
+Text: Ein Opfer, das der König und Osiris, der Herr von Busiris, Chontamenti, der Herr von Abydos, an allen seinen Plätzen geben.
+Period: New Kingdom
+
+Text: Herr der Mächte im Tjenenet-Heiligtum,
+Period: New Kingdom
+
+Text: Setze deine Arme für das Gute ein!
+Period: New Kingdom
+
+Text: Haus des Zerstampfens des Schatzhauses, Haus Unterägyptens
+Period: Old Kingdom
+
+Text: Opfern von Brot und Bier in der Kapelle des Horus Za
+Period: Old Kingdom
+
+Text: König von Ober- und Unterägypten Chasechemui-nebti-hetep-netjerui-im-ef
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: Es ist (doch) so, daß dein Bedarf in deinem Haus ist.
+
+Answer:"
+"Möge ihm Mehun seinen Arm hinstrecken, beladen mit dem Opfer des großen Gottes an den Festen der Nekropole.",New Kingdom,"
+You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given German translation. Only respond with the name of the period.
+
+Examples:
+Text: Dann muß man (es) in Wasser ansetzen.
+Period: Late Period
+
+Text: Dann ist sein Gesicht infolgedessen breitgedrückt.
+Period: Late Period
+
+Text: Das bedeutet ein Beseitigen der Stirn-/Gesichtskrankheit (ein starker Schnupfen oder Katarrh?) im Kopf.
+Period: Late Period
+
+Text: Die Nicht-Untergehenden werden dir folgen.
+Period: Middle Kingdom
+
+Text: Er möge bestattet werden in der Nehkropole in der westlichen Bestattungsstätte, indem er sehr schön alt ist als Versorgter durch den König und durch den Großen Gott.
+Period: Middle Kingdom
+
+Text: Tausend an Brot, tausend an Gebäck, tausend an Bier, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Opfern.
+Period: Middle Kingdom
+
+Text: Ein Opfer, das der König und Osiris, der Herr von Busiris, Chontamenti, der Herr von Abydos, an allen seinen Plätzen geben.
+Period: New Kingdom
+
+Text: Herr der Mächte im Tjenenet-Heiligtum,
+Period: New Kingdom
+
+Text: Setze deine Arme für das Gute ein!
+Period: New Kingdom
+
+Text: Haus des Zerstampfens des Schatzhauses, Haus Unterägyptens
+Period: Old Kingdom
+
+Text: Opfern von Brot und Bier in der Kapelle des Horus Za
+Period: Old Kingdom
+
+Text: König von Ober- und Unterägypten Chasechemui-nebti-hetep-netjerui-im-ef
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: Möge ihm Mehun seinen Arm hinstrecken, beladen mit dem Opfer des großen Gottes an den Festen der Nekropole.
+
+Answer:"
+"Großer der Zehn von Oberägypten, Nefer-hetep, gerechtfertigt.",New Kingdom,"
+You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given German translation. Only respond with the name of the period.
+
+Examples:
+Text: Dann muß man (es) in Wasser ansetzen.
+Period: Late Period
+
+Text: Dann ist sein Gesicht infolgedessen breitgedrückt.
+Period: Late Period
+
+Text: Das bedeutet ein Beseitigen der Stirn-/Gesichtskrankheit (ein starker Schnupfen oder Katarrh?) im Kopf.
+Period: Late Period
+
+Text: Die Nicht-Untergehenden werden dir folgen.
+Period: Middle Kingdom
+
+Text: Er möge bestattet werden in der Nehkropole in der westlichen Bestattungsstätte, indem er sehr schön alt ist als Versorgter durch den König und durch den Großen Gott.
+Period: Middle Kingdom
+
+Text: Tausend an Brot, tausend an Gebäck, tausend an Bier, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Opfern.
+Period: Middle Kingdom
+
+Text: Ein Opfer, das der König und Osiris, der Herr von Busiris, Chontamenti, der Herr von Abydos, an allen seinen Plätzen geben.
+Period: New Kingdom
+
+Text: Herr der Mächte im Tjenenet-Heiligtum,
+Period: New Kingdom
+
+Text: Setze deine Arme für das Gute ein!
+Period: New Kingdom
+
+Text: Haus des Zerstampfens des Schatzhauses, Haus Unterägyptens
+Period: Old Kingdom
+
+Text: Opfern von Brot und Bier in der Kapelle des Horus Za
+Period: Old Kingdom
+
+Text: König von Ober- und Unterägypten Chasechemui-nebti-hetep-netjerui-im-ef
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: Großer der Zehn von Oberägypten, Nefer-hetep, gerechtfertigt.
+
+Answer:"
+"Wein, jšd-Früchte, Christusdornfrucht, Feigen, Weintrauben, frische sẖ,t-Körner.",Old Kingdom,"
+You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given German translation. Only respond with the name of the period.
+
+Examples:
+Text: Dann muß man (es) in Wasser ansetzen.
+Period: Late Period
+
+Text: Dann ist sein Gesicht infolgedessen breitgedrückt.
+Period: Late Period
+
+Text: Das bedeutet ein Beseitigen der Stirn-/Gesichtskrankheit (ein starker Schnupfen oder Katarrh?) im Kopf.
+Period: Late Period
+
+Text: Die Nicht-Untergehenden werden dir folgen.
+Period: Middle Kingdom
+
+Text: Er möge bestattet werden in der Nehkropole in der westlichen Bestattungsstätte, indem er sehr schön alt ist als Versorgter durch den König und durch den Großen Gott.
+Period: Middle Kingdom
+
+Text: Tausend an Brot, tausend an Gebäck, tausend an Bier, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Opfern.
+Period: Middle Kingdom
+
+Text: Ein Opfer, das der König und Osiris, der Herr von Busiris, Chontamenti, der Herr von Abydos, an allen seinen Plätzen geben.
+Period: New Kingdom
+
+Text: Herr der Mächte im Tjenenet-Heiligtum,
+Period: New Kingdom
+
+Text: Setze deine Arme für das Gute ein!
+Period: New Kingdom
+
+Text: Haus des Zerstampfens des Schatzhauses, Haus Unterägyptens
+Period: Old Kingdom
+
+Text: Opfern von Brot und Bier in der Kapelle des Horus Za
+Period: Old Kingdom
+
+Text: König von Ober- und Unterägypten Chasechemui-nebti-hetep-netjerui-im-ef
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: Wein, jšd-Früchte, Christusdornfrucht, Feigen, Weintrauben, frische sẖ,t-Körner.
+
+Answer:"
+Weiße Antilope (16. o.äg. Gau),Old Kingdom,"
+You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given German translation. Only respond with the name of the period.
+
+Examples:
+Text: Dann muß man (es) in Wasser ansetzen.
+Period: Late Period
+
+Text: Dann ist sein Gesicht infolgedessen breitgedrückt.
+Period: Late Period
+
+Text: Das bedeutet ein Beseitigen der Stirn-/Gesichtskrankheit (ein starker Schnupfen oder Katarrh?) im Kopf.
+Period: Late Period
+
+Text: Die Nicht-Untergehenden werden dir folgen.
+Period: Middle Kingdom
+
+Text: Er möge bestattet werden in der Nehkropole in der westlichen Bestattungsstätte, indem er sehr schön alt ist als Versorgter durch den König und durch den Großen Gott.
+Period: Middle Kingdom
+
+Text: Tausend an Brot, tausend an Gebäck, tausend an Bier, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Opfern.
+Period: Middle Kingdom
+
+Text: Ein Opfer, das der König und Osiris, der Herr von Busiris, Chontamenti, der Herr von Abydos, an allen seinen Plätzen geben.
+Period: New Kingdom
+
+Text: Herr der Mächte im Tjenenet-Heiligtum,
+Period: New Kingdom
+
+Text: Setze deine Arme für das Gute ein!
+Period: New Kingdom
+
+Text: Haus des Zerstampfens des Schatzhauses, Haus Unterägyptens
+Period: Old Kingdom
+
+Text: Opfern von Brot und Bier in der Kapelle des Horus Za
+Period: Old Kingdom
+
+Text: König von Ober- und Unterägypten Chasechemui-nebti-hetep-netjerui-im-ef
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: Weiße Antilope (16. o.äg. Gau)
+
+Answer:"
+"Der Nomarch, Vorsteher der Expedition, der hohe Beamte und Hem-nisut (Siegler des Königs?), der Älteste des Palastes und Königssohn",Old Kingdom,"
+You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given German translation. Only respond with the name of the period.
+
+Examples:
+Text: Dann muß man (es) in Wasser ansetzen.
+Period: Late Period
+
+Text: Dann ist sein Gesicht infolgedessen breitgedrückt.
+Period: Late Period
+
+Text: Das bedeutet ein Beseitigen der Stirn-/Gesichtskrankheit (ein starker Schnupfen oder Katarrh?) im Kopf.
+Period: Late Period
+
+Text: Die Nicht-Untergehenden werden dir folgen.
+Period: Middle Kingdom
+
+Text: Er möge bestattet werden in der Nehkropole in der westlichen Bestattungsstätte, indem er sehr schön alt ist als Versorgter durch den König und durch den Großen Gott.
+Period: Middle Kingdom
+
+Text: Tausend an Brot, tausend an Gebäck, tausend an Bier, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Opfern.
+Period: Middle Kingdom
+
+Text: Ein Opfer, das der König und Osiris, der Herr von Busiris, Chontamenti, der Herr von Abydos, an allen seinen Plätzen geben.
+Period: New Kingdom
+
+Text: Herr der Mächte im Tjenenet-Heiligtum,
+Period: New Kingdom
+
+Text: Setze deine Arme für das Gute ein!
+Period: New Kingdom
+
+Text: Haus des Zerstampfens des Schatzhauses, Haus Unterägyptens
+Period: Old Kingdom
+
+Text: Opfern von Brot und Bier in der Kapelle des Horus Za
+Period: Old Kingdom
+
+Text: König von Ober- und Unterägypten Chasechemui-nebti-hetep-netjerui-im-ef
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: Der Nomarch, Vorsteher der Expedition, der hohe Beamte und Hem-nisut (Siegler des Königs?), der Älteste des Palastes und Königssohn
+
+Answer:"
+"Geschmückte des Horus, der die Fremdländer erschlägt, Wedjebet",Old Kingdom,"
+You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given German translation. Only respond with the name of the period.
+
+Examples:
+Text: Dann muß man (es) in Wasser ansetzen.
+Period: Late Period
+
+Text: Dann ist sein Gesicht infolgedessen breitgedrückt.
+Period: Late Period
+
+Text: Das bedeutet ein Beseitigen der Stirn-/Gesichtskrankheit (ein starker Schnupfen oder Katarrh?) im Kopf.
+Period: Late Period
+
+Text: Die Nicht-Untergehenden werden dir folgen.
+Period: Middle Kingdom
+
+Text: Er möge bestattet werden in der Nehkropole in der westlichen Bestattungsstätte, indem er sehr schön alt ist als Versorgter durch den König und durch den Großen Gott.
+Period: Middle Kingdom
+
+Text: Tausend an Brot, tausend an Gebäck, tausend an Bier, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Opfern.
+Period: Middle Kingdom
+
+Text: Ein Opfer, das der König und Osiris, der Herr von Busiris, Chontamenti, der Herr von Abydos, an allen seinen Plätzen geben.
+Period: New Kingdom
+
+Text: Herr der Mächte im Tjenenet-Heiligtum,
+Period: New Kingdom
+
+Text: Setze deine Arme für das Gute ein!
+Period: New Kingdom
+
+Text: Haus des Zerstampfens des Schatzhauses, Haus Unterägyptens
+Period: Old Kingdom
+
+Text: Opfern von Brot und Bier in der Kapelle des Horus Za
+Period: Old Kingdom
+
+Text: König von Ober- und Unterägypten Chasechemui-nebti-hetep-netjerui-im-ef
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: Geschmückte des Horus, der die Fremdländer erschlägt, Wedjebet
+
+Answer:"
+"Diener der Verwaltungseinheit Za-ka, In",Old Kingdom,"
+You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given German translation. Only respond with the name of the period.
+
+Examples:
+Text: Dann muß man (es) in Wasser ansetzen.
+Period: Late Period
+
+Text: Dann ist sein Gesicht infolgedessen breitgedrückt.
+Period: Late Period
+
+Text: Das bedeutet ein Beseitigen der Stirn-/Gesichtskrankheit (ein starker Schnupfen oder Katarrh?) im Kopf.
+Period: Late Period
+
+Text: Die Nicht-Untergehenden werden dir folgen.
+Period: Middle Kingdom
+
+Text: Er möge bestattet werden in der Nehkropole in der westlichen Bestattungsstätte, indem er sehr schön alt ist als Versorgter durch den König und durch den Großen Gott.
+Period: Middle Kingdom
+
+Text: Tausend an Brot, tausend an Gebäck, tausend an Bier, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Opfern.
+Period: Middle Kingdom
+
+Text: Ein Opfer, das der König und Osiris, der Herr von Busiris, Chontamenti, der Herr von Abydos, an allen seinen Plätzen geben.
+Period: New Kingdom
+
+Text: Herr der Mächte im Tjenenet-Heiligtum,
+Period: New Kingdom
+
+Text: Setze deine Arme für das Gute ein!
+Period: New Kingdom
+
+Text: Haus des Zerstampfens des Schatzhauses, Haus Unterägyptens
+Period: Old Kingdom
+
+Text: Opfern von Brot und Bier in der Kapelle des Horus Za
+Period: Old Kingdom
+
+Text: König von Ober- und Unterägypten Chasechemui-nebti-hetep-netjerui-im-ef
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: Diener der Verwaltungseinheit Za-ka, In
+
+Answer:"
+"Zimmermann des Anubis/Chontamenti, der an der Spitze der Nekropole ist, Sohn der Gehörnten, Priester der Seschat, Hetes",Old Kingdom,"
+You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given German translation. Only respond with the name of the period.
+
+Examples:
+Text: Dann muß man (es) in Wasser ansetzen.
+Period: Late Period
+
+Text: Dann ist sein Gesicht infolgedessen breitgedrückt.
+Period: Late Period
+
+Text: Das bedeutet ein Beseitigen der Stirn-/Gesichtskrankheit (ein starker Schnupfen oder Katarrh?) im Kopf.
+Period: Late Period
+
+Text: Die Nicht-Untergehenden werden dir folgen.
+Period: Middle Kingdom
+
+Text: Er möge bestattet werden in der Nehkropole in der westlichen Bestattungsstätte, indem er sehr schön alt ist als Versorgter durch den König und durch den Großen Gott.
+Period: Middle Kingdom
+
+Text: Tausend an Brot, tausend an Gebäck, tausend an Bier, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Opfern.
+Period: Middle Kingdom
+
+Text: Ein Opfer, das der König und Osiris, der Herr von Busiris, Chontamenti, der Herr von Abydos, an allen seinen Plätzen geben.
+Period: New Kingdom
+
+Text: Herr der Mächte im Tjenenet-Heiligtum,
+Period: New Kingdom
+
+Text: Setze deine Arme für das Gute ein!
+Period: New Kingdom
+
+Text: Haus des Zerstampfens des Schatzhauses, Haus Unterägyptens
+Period: Old Kingdom
+
+Text: Opfern von Brot und Bier in der Kapelle des Horus Za
+Period: Old Kingdom
+
+Text: König von Ober- und Unterägypten Chasechemui-nebti-hetep-netjerui-im-ef
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: Zimmermann des Anubis/Chontamenti, der an der Spitze der Nekropole ist, Sohn der Gehörnten, Priester der Seschat, Hetes
+
+Answer:"
+"Domäne ""Baumgarten des Horus"" in Sech",Old Kingdom,"
+You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given German translation. Only respond with the name of the period.
+
+Examples:
+Text: Dann muß man (es) in Wasser ansetzen.
+Period: Late Period
+
+Text: Dann ist sein Gesicht infolgedessen breitgedrückt.
+Period: Late Period
+
+Text: Das bedeutet ein Beseitigen der Stirn-/Gesichtskrankheit (ein starker Schnupfen oder Katarrh?) im Kopf.
+Period: Late Period
+
+Text: Die Nicht-Untergehenden werden dir folgen.
+Period: Middle Kingdom
+
+Text: Er möge bestattet werden in der Nehkropole in der westlichen Bestattungsstätte, indem er sehr schön alt ist als Versorgter durch den König und durch den Großen Gott.
+Period: Middle Kingdom
+
+Text: Tausend an Brot, tausend an Gebäck, tausend an Bier, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Opfern.
+Period: Middle Kingdom
+
+Text: Ein Opfer, das der König und Osiris, der Herr von Busiris, Chontamenti, der Herr von Abydos, an allen seinen Plätzen geben.
+Period: New Kingdom
+
+Text: Herr der Mächte im Tjenenet-Heiligtum,
+Period: New Kingdom
+
+Text: Setze deine Arme für das Gute ein!
+Period: New Kingdom
+
+Text: Haus des Zerstampfens des Schatzhauses, Haus Unterägyptens
+Period: Old Kingdom
+
+Text: Opfern von Brot und Bier in der Kapelle des Horus Za
+Period: Old Kingdom
+
+Text: König von Ober- und Unterägypten Chasechemui-nebti-hetep-netjerui-im-ef
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: Domäne ""Baumgarten des Horus"" in Sech
+
+Answer:"
+Opfern von Brot und Bier in der Kapelle des Horus Za,Old Kingdom,"
+You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given German translation. Only respond with the name of the period.
+
+Examples:
+Text: Dann muß man (es) in Wasser ansetzen.
+Period: Late Period
+
+Text: Dann ist sein Gesicht infolgedessen breitgedrückt.
+Period: Late Period
+
+Text: Das bedeutet ein Beseitigen der Stirn-/Gesichtskrankheit (ein starker Schnupfen oder Katarrh?) im Kopf.
+Period: Late Period
+
+Text: Die Nicht-Untergehenden werden dir folgen.
+Period: Middle Kingdom
+
+Text: Er möge bestattet werden in der Nehkropole in der westlichen Bestattungsstätte, indem er sehr schön alt ist als Versorgter durch den König und durch den Großen Gott.
+Period: Middle Kingdom
+
+Text: Tausend an Brot, tausend an Gebäck, tausend an Bier, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Opfern.
+Period: Middle Kingdom
+
+Text: Ein Opfer, das der König und Osiris, der Herr von Busiris, Chontamenti, der Herr von Abydos, an allen seinen Plätzen geben.
+Period: New Kingdom
+
+Text: Herr der Mächte im Tjenenet-Heiligtum,
+Period: New Kingdom
+
+Text: Setze deine Arme für das Gute ein!
+Period: New Kingdom
+
+Text: Haus des Zerstampfens des Schatzhauses, Haus Unterägyptens
+Period: Old Kingdom
+
+Text: Opfern von Brot und Bier in der Kapelle des Horus Za
+Period: Old Kingdom
+
+Text: König von Ober- und Unterägypten Chasechemui-nebti-hetep-netjerui-im-ef
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: Opfern von Brot und Bier in der Kapelle des Horus Za
+
+Answer:"
+"Jahr der königlichen(?) Inspektion (durch) den Meister der königlichen Zimmerleute, (Lieferung von?) Akazienholz",Old Kingdom,"
+You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given German translation. Only respond with the name of the period.
+
+Examples:
+Text: Dann muß man (es) in Wasser ansetzen.
+Period: Late Period
+
+Text: Dann ist sein Gesicht infolgedessen breitgedrückt.
+Period: Late Period
+
+Text: Das bedeutet ein Beseitigen der Stirn-/Gesichtskrankheit (ein starker Schnupfen oder Katarrh?) im Kopf.
+Period: Late Period
+
+Text: Die Nicht-Untergehenden werden dir folgen.
+Period: Middle Kingdom
+
+Text: Er möge bestattet werden in der Nehkropole in der westlichen Bestattungsstätte, indem er sehr schön alt ist als Versorgter durch den König und durch den Großen Gott.
+Period: Middle Kingdom
+
+Text: Tausend an Brot, tausend an Gebäck, tausend an Bier, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Opfern.
+Period: Middle Kingdom
+
+Text: Ein Opfer, das der König und Osiris, der Herr von Busiris, Chontamenti, der Herr von Abydos, an allen seinen Plätzen geben.
+Period: New Kingdom
+
+Text: Herr der Mächte im Tjenenet-Heiligtum,
+Period: New Kingdom
+
+Text: Setze deine Arme für das Gute ein!
+Period: New Kingdom
+
+Text: Haus des Zerstampfens des Schatzhauses, Haus Unterägyptens
+Period: Old Kingdom
+
+Text: Opfern von Brot und Bier in der Kapelle des Horus Za
+Period: Old Kingdom
+
+Text: König von Ober- und Unterägypten Chasechemui-nebti-hetep-netjerui-im-ef
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: Jahr der königlichen(?) Inspektion (durch) den Meister der königlichen Zimmerleute, (Lieferung von?) Akazienholz
+
+Answer:"
+Rote Salbe (lit: rotes Vogelfett),Old Kingdom,"
+You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given German translation. Only respond with the name of the period.
+
+Examples:
+Text: Dann muß man (es) in Wasser ansetzen.
+Period: Late Period
+
+Text: Dann ist sein Gesicht infolgedessen breitgedrückt.
+Period: Late Period
+
+Text: Das bedeutet ein Beseitigen der Stirn-/Gesichtskrankheit (ein starker Schnupfen oder Katarrh?) im Kopf.
+Period: Late Period
+
+Text: Die Nicht-Untergehenden werden dir folgen.
+Period: Middle Kingdom
+
+Text: Er möge bestattet werden in der Nehkropole in der westlichen Bestattungsstätte, indem er sehr schön alt ist als Versorgter durch den König und durch den Großen Gott.
+Period: Middle Kingdom
+
+Text: Tausend an Brot, tausend an Gebäck, tausend an Bier, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Geflügel, tausend an Opfern.
+Period: Middle Kingdom
+
+Text: Ein Opfer, das der König und Osiris, der Herr von Busiris, Chontamenti, der Herr von Abydos, an allen seinen Plätzen geben.
+Period: New Kingdom
+
+Text: Herr der Mächte im Tjenenet-Heiligtum,
+Period: New Kingdom
+
+Text: Setze deine Arme für das Gute ein!
+Period: New Kingdom
+
+Text: Haus des Zerstampfens des Schatzhauses, Haus Unterägyptens
+Period: Old Kingdom
+
+Text: Opfern von Brot und Bier in der Kapelle des Horus Za
+Period: Old Kingdom
+
+Text: König von Ober- und Unterägypten Chasechemui-nebti-hetep-netjerui-im-ef
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: Rote Salbe (lit: rotes Vogelfett)
+
+Answer:"

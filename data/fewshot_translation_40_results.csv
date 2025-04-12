@@ -1,0 +1,1761 @@
+text,true_period,prompt,predicted_period
+wn.En ḥm =f ḥr pgA zxA.w.PL ḥn3 nn-n smr.PL,New Kingdom,"You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given transliteration. Only respond with the name of the period.
+
+Examples:
+Text: ptE Er =f pA Eb E (E)ty 3nkh-(w)ḏA-s(nb) nb =E
+Period: Late Period
+
+Text: mri̯ =E Es st nA ḏd.y =k
+Period: Late Period
+
+Text: shs.(y)t n.t wAḏ.w ḏAr.t 3sh 3ḏ mrḥ.t
+Period: Late Period
+
+Text: 3ḥ3 zA =k ḥr ns.t =k 3pr m Er.w =k
+Period: Middle Kingdom
+
+Text: ppy nfr-kA-r3w pw gbb rʾ p3n (E)r(.E)-p3(.t)-ntjr.PL di̯.n (E)tm(.w) khnt psḏ.t ḥtp.w ntjr.PL ḥr ḏd.t =f
+Period: Middle Kingdom
+
+Text: zE ḏḥw.tE ḥn3 kA =f
+Period: Middle Kingdom
+
+Text: nn khnms n sxi̯ mA3.t
+Period: New Kingdom
+
+Text: Eri̯ mA3.t n nb mA3.t n.tE wn mA3.t n.t mA3.t =f
+Period: New Kingdom
+
+Text: tr shw.t =k wnn kh.t =k
+Period: New Kingdom
+
+Text: Erp Eshd nbs dAb EArr(.w)t sx.t wAḏ(.t)
+Period: Old Kingdom
+
+Text: mḏḥ.w-Enp.w-khnt(.E)-tA-ḏsr zḥ.E-ntjr-Enp.w zkhn.w-pr-wr-stx ḥm-ntjr-EgA.E ḥqA-ntjr zA-3b.t ḥm-ntjr-sshA.t kh3i̯-bA.w-zkr rn-3A
+Period: Old Kingdom
+
+Text: ḥ(n)q.t nḏm skhp.t xnw-3.DU bn(E).t wAḏ(.t) qAE Erp Erp-wA dAb nbs w3ḥ Eshd sx.t wAḏ(.t) EArr.(w)t sx.t ḥḏ(.t)
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: wn.En ḥm =f ḥr pgA zxA.w.PL ḥn3 nn-n smr.PL
+
+Answer:",New Kingdom
+Eni̯(.t) ḥm-3A sh(n)ḏ shm3.w mḥ.w,Old Kingdom,"You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given transliteration. Only respond with the name of the period.
+
+Examples:
+Text: ptE Er =f pA Eb E (E)ty 3nkh-(w)ḏA-s(nb) nb =E
+Period: Late Period
+
+Text: mri̯ =E Es st nA ḏd.y =k
+Period: Late Period
+
+Text: shs.(y)t n.t wAḏ.w ḏAr.t 3sh 3ḏ mrḥ.t
+Period: Late Period
+
+Text: 3ḥ3 zA =k ḥr ns.t =k 3pr m Er.w =k
+Period: Middle Kingdom
+
+Text: ppy nfr-kA-r3w pw gbb rʾ p3n (E)r(.E)-p3(.t)-ntjr.PL di̯.n (E)tm(.w) khnt psḏ.t ḥtp.w ntjr.PL ḥr ḏd.t =f
+Period: Middle Kingdom
+
+Text: zE ḏḥw.tE ḥn3 kA =f
+Period: Middle Kingdom
+
+Text: nn khnms n sxi̯ mA3.t
+Period: New Kingdom
+
+Text: Eri̯ mA3.t n nb mA3.t n.tE wn mA3.t n.t mA3.t =f
+Period: New Kingdom
+
+Text: tr shw.t =k wnn kh.t =k
+Period: New Kingdom
+
+Text: Erp Eshd nbs dAb EArr(.w)t sx.t wAḏ(.t)
+Period: Old Kingdom
+
+Text: mḏḥ.w-Enp.w-khnt(.E)-tA-ḏsr zḥ.E-ntjr-Enp.w zkhn.w-pr-wr-stx ḥm-ntjr-EgA.E ḥqA-ntjr zA-3b.t ḥm-ntjr-sshA.t kh3i̯-bA.w-zkr rn-3A
+Period: Old Kingdom
+
+Text: ḥ(n)q.t nḏm skhp.t xnw-3.DU bn(E).t wAḏ(.t) qAE Erp Erp-wA dAb nbs w3ḥ Eshd sx.t wAḏ(.t) EArr.(w)t sx.t ḥḏ(.t)
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: Eni̯(.t) ḥm-3A sh(n)ḏ shm3.w mḥ.w
+
+Answer:",Middle Kingdom
+Eni̯(.t) ḥm-3A sh(n)ḏ shm3.w mḥ.w,Old Kingdom,"You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given transliteration. Only respond with the name of the period.
+
+Examples:
+Text: ptE Er =f pA Eb E (E)ty 3nkh-(w)ḏA-s(nb) nb =E
+Period: Late Period
+
+Text: mri̯ =E Es st nA ḏd.y =k
+Period: Late Period
+
+Text: shs.(y)t n.t wAḏ.w ḏAr.t 3sh 3ḏ mrḥ.t
+Period: Late Period
+
+Text: 3ḥ3 zA =k ḥr ns.t =k 3pr m Er.w =k
+Period: Middle Kingdom
+
+Text: ppy nfr-kA-r3w pw gbb rʾ p3n (E)r(.E)-p3(.t)-ntjr.PL di̯.n (E)tm(.w) khnt psḏ.t ḥtp.w ntjr.PL ḥr ḏd.t =f
+Period: Middle Kingdom
+
+Text: zE ḏḥw.tE ḥn3 kA =f
+Period: Middle Kingdom
+
+Text: nn khnms n sxi̯ mA3.t
+Period: New Kingdom
+
+Text: Eri̯ mA3.t n nb mA3.t n.tE wn mA3.t n.t mA3.t =f
+Period: New Kingdom
+
+Text: tr shw.t =k wnn kh.t =k
+Period: New Kingdom
+
+Text: Erp Eshd nbs dAb EArr(.w)t sx.t wAḏ(.t)
+Period: Old Kingdom
+
+Text: mḏḥ.w-Enp.w-khnt(.E)-tA-ḏsr zḥ.E-ntjr-Enp.w zkhn.w-pr-wr-stx ḥm-ntjr-EgA.E ḥqA-ntjr zA-3b.t ḥm-ntjr-sshA.t kh3i̯-bA.w-zkr rn-3A
+Period: Old Kingdom
+
+Text: ḥ(n)q.t nḏm skhp.t xnw-3.DU bn(E).t wAḏ(.t) qAE Erp Erp-wA dAb nbs w3ḥ Eshd sx.t wAḏ(.t) EArr.(w)t sx.t ḥḏ(.t)
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: Eni̯(.t) ḥm-3A sh(n)ḏ shm3.w mḥ.w
+
+Answer:",Middle Kingdom
+ḥA ḏi̯ =tn pA Et 3A m 3.t khtm.tE r Ewi̯.t =n ḥr khni̯.t mḥ.tE,Late Period,"You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given transliteration. Only respond with the name of the period.
+
+Examples:
+Text: ptE Er =f pA Eb E (E)ty 3nkh-(w)ḏA-s(nb) nb =E
+Period: Late Period
+
+Text: mri̯ =E Es st nA ḏd.y =k
+Period: Late Period
+
+Text: shs.(y)t n.t wAḏ.w ḏAr.t 3sh 3ḏ mrḥ.t
+Period: Late Period
+
+Text: 3ḥ3 zA =k ḥr ns.t =k 3pr m Er.w =k
+Period: Middle Kingdom
+
+Text: ppy nfr-kA-r3w pw gbb rʾ p3n (E)r(.E)-p3(.t)-ntjr.PL di̯.n (E)tm(.w) khnt psḏ.t ḥtp.w ntjr.PL ḥr ḏd.t =f
+Period: Middle Kingdom
+
+Text: zE ḏḥw.tE ḥn3 kA =f
+Period: Middle Kingdom
+
+Text: nn khnms n sxi̯ mA3.t
+Period: New Kingdom
+
+Text: Eri̯ mA3.t n nb mA3.t n.tE wn mA3.t n.t mA3.t =f
+Period: New Kingdom
+
+Text: tr shw.t =k wnn kh.t =k
+Period: New Kingdom
+
+Text: Erp Eshd nbs dAb EArr(.w)t sx.t wAḏ(.t)
+Period: Old Kingdom
+
+Text: mḏḥ.w-Enp.w-khnt(.E)-tA-ḏsr zḥ.E-ntjr-Enp.w zkhn.w-pr-wr-stx ḥm-ntjr-EgA.E ḥqA-ntjr zA-3b.t ḥm-ntjr-sshA.t kh3i̯-bA.w-zkr rn-3A
+Period: Old Kingdom
+
+Text: ḥ(n)q.t nḏm skhp.t xnw-3.DU bn(E).t wAḏ(.t) qAE Erp Erp-wA dAb nbs w3ḥ Eshd sx.t wAḏ(.t) EArr.(w)t sx.t ḥḏ(.t)
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: ḥA ḏi̯ =tn pA Et 3A m 3.t khtm.tE r Ewi̯.t =n ḥr khni̯.t mḥ.tE
+
+Answer:",Late Period
+rkh.t-nzw tp=s rn-nḏs nfr-ḥtp-ḥw.t-ḥr.w rn-3A,Old Kingdom,"You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given transliteration. Only respond with the name of the period.
+
+Examples:
+Text: ptE Er =f pA Eb E (E)ty 3nkh-(w)ḏA-s(nb) nb =E
+Period: Late Period
+
+Text: mri̯ =E Es st nA ḏd.y =k
+Period: Late Period
+
+Text: shs.(y)t n.t wAḏ.w ḏAr.t 3sh 3ḏ mrḥ.t
+Period: Late Period
+
+Text: 3ḥ3 zA =k ḥr ns.t =k 3pr m Er.w =k
+Period: Middle Kingdom
+
+Text: ppy nfr-kA-r3w pw gbb rʾ p3n (E)r(.E)-p3(.t)-ntjr.PL di̯.n (E)tm(.w) khnt psḏ.t ḥtp.w ntjr.PL ḥr ḏd.t =f
+Period: Middle Kingdom
+
+Text: zE ḏḥw.tE ḥn3 kA =f
+Period: Middle Kingdom
+
+Text: nn khnms n sxi̯ mA3.t
+Period: New Kingdom
+
+Text: Eri̯ mA3.t n nb mA3.t n.tE wn mA3.t n.t mA3.t =f
+Period: New Kingdom
+
+Text: tr shw.t =k wnn kh.t =k
+Period: New Kingdom
+
+Text: Erp Eshd nbs dAb EArr(.w)t sx.t wAḏ(.t)
+Period: Old Kingdom
+
+Text: mḏḥ.w-Enp.w-khnt(.E)-tA-ḏsr zḥ.E-ntjr-Enp.w zkhn.w-pr-wr-stx ḥm-ntjr-EgA.E ḥqA-ntjr zA-3b.t ḥm-ntjr-sshA.t kh3i̯-bA.w-zkr rn-3A
+Period: Old Kingdom
+
+Text: ḥ(n)q.t nḏm skhp.t xnw-3.DU bn(E).t wAḏ(.t) qAE Erp Erp-wA dAb nbs w3ḥ Eshd sx.t wAḏ(.t) EArr.(w)t sx.t ḥḏ(.t)
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: rkh.t-nzw tp=s rn-nḏs nfr-ḥtp-ḥw.t-ḥr.w rn-3A
+
+Answer:",Old Kingdom
+Err.t(w) nn ḥr sḥm n(.E) ḥzmn,New Kingdom,"You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given transliteration. Only respond with the name of the period.
+
+Examples:
+Text: ptE Er =f pA Eb E (E)ty 3nkh-(w)ḏA-s(nb) nb =E
+Period: Late Period
+
+Text: mri̯ =E Es st nA ḏd.y =k
+Period: Late Period
+
+Text: shs.(y)t n.t wAḏ.w ḏAr.t 3sh 3ḏ mrḥ.t
+Period: Late Period
+
+Text: 3ḥ3 zA =k ḥr ns.t =k 3pr m Er.w =k
+Period: Middle Kingdom
+
+Text: ppy nfr-kA-r3w pw gbb rʾ p3n (E)r(.E)-p3(.t)-ntjr.PL di̯.n (E)tm(.w) khnt psḏ.t ḥtp.w ntjr.PL ḥr ḏd.t =f
+Period: Middle Kingdom
+
+Text: zE ḏḥw.tE ḥn3 kA =f
+Period: Middle Kingdom
+
+Text: nn khnms n sxi̯ mA3.t
+Period: New Kingdom
+
+Text: Eri̯ mA3.t n nb mA3.t n.tE wn mA3.t n.t mA3.t =f
+Period: New Kingdom
+
+Text: tr shw.t =k wnn kh.t =k
+Period: New Kingdom
+
+Text: Erp Eshd nbs dAb EArr(.w)t sx.t wAḏ(.t)
+Period: Old Kingdom
+
+Text: mḏḥ.w-Enp.w-khnt(.E)-tA-ḏsr zḥ.E-ntjr-Enp.w zkhn.w-pr-wr-stx ḥm-ntjr-EgA.E ḥqA-ntjr zA-3b.t ḥm-ntjr-sshA.t kh3i̯-bA.w-zkr rn-3A
+Period: Old Kingdom
+
+Text: ḥ(n)q.t nḏm skhp.t xnw-3.DU bn(E).t wAḏ(.t) qAE Erp Erp-wA dAb nbs w3ḥ Eshd sx.t wAḏ(.t) EArr.(w)t sx.t ḥḏ(.t)
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: Err.t(w) nn ḥr sḥm n(.E) ḥzmn
+
+Answer:",New Kingdom
+ḥw.t-zA-ḥA-nb ḥtp rnp.t pr-nzw khnt.E (Em.E)-wr.(t),Old Kingdom,"You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given transliteration. Only respond with the name of the period.
+
+Examples:
+Text: ptE Er =f pA Eb E (E)ty 3nkh-(w)ḏA-s(nb) nb =E
+Period: Late Period
+
+Text: mri̯ =E Es st nA ḏd.y =k
+Period: Late Period
+
+Text: shs.(y)t n.t wAḏ.w ḏAr.t 3sh 3ḏ mrḥ.t
+Period: Late Period
+
+Text: 3ḥ3 zA =k ḥr ns.t =k 3pr m Er.w =k
+Period: Middle Kingdom
+
+Text: ppy nfr-kA-r3w pw gbb rʾ p3n (E)r(.E)-p3(.t)-ntjr.PL di̯.n (E)tm(.w) khnt psḏ.t ḥtp.w ntjr.PL ḥr ḏd.t =f
+Period: Middle Kingdom
+
+Text: zE ḏḥw.tE ḥn3 kA =f
+Period: Middle Kingdom
+
+Text: nn khnms n sxi̯ mA3.t
+Period: New Kingdom
+
+Text: Eri̯ mA3.t n nb mA3.t n.tE wn mA3.t n.t mA3.t =f
+Period: New Kingdom
+
+Text: tr shw.t =k wnn kh.t =k
+Period: New Kingdom
+
+Text: Erp Eshd nbs dAb EArr(.w)t sx.t wAḏ(.t)
+Period: Old Kingdom
+
+Text: mḏḥ.w-Enp.w-khnt(.E)-tA-ḏsr zḥ.E-ntjr-Enp.w zkhn.w-pr-wr-stx ḥm-ntjr-EgA.E ḥqA-ntjr zA-3b.t ḥm-ntjr-sshA.t kh3i̯-bA.w-zkr rn-3A
+Period: Old Kingdom
+
+Text: ḥ(n)q.t nḏm skhp.t xnw-3.DU bn(E).t wAḏ(.t) qAE Erp Erp-wA dAb nbs w3ḥ Eshd sx.t wAḏ(.t) EArr.(w)t sx.t ḥḏ(.t)
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: ḥw.t-zA-ḥA-nb ḥtp rnp.t pr-nzw khnt.E (Em.E)-wr.(t)
+
+Answer:",Old Kingdom
+Ew qd nfr r skhA.w,New Kingdom,"You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given transliteration. Only respond with the name of the period.
+
+Examples:
+Text: ptE Er =f pA Eb E (E)ty 3nkh-(w)ḏA-s(nb) nb =E
+Period: Late Period
+
+Text: mri̯ =E Es st nA ḏd.y =k
+Period: Late Period
+
+Text: shs.(y)t n.t wAḏ.w ḏAr.t 3sh 3ḏ mrḥ.t
+Period: Late Period
+
+Text: 3ḥ3 zA =k ḥr ns.t =k 3pr m Er.w =k
+Period: Middle Kingdom
+
+Text: ppy nfr-kA-r3w pw gbb rʾ p3n (E)r(.E)-p3(.t)-ntjr.PL di̯.n (E)tm(.w) khnt psḏ.t ḥtp.w ntjr.PL ḥr ḏd.t =f
+Period: Middle Kingdom
+
+Text: zE ḏḥw.tE ḥn3 kA =f
+Period: Middle Kingdom
+
+Text: nn khnms n sxi̯ mA3.t
+Period: New Kingdom
+
+Text: Eri̯ mA3.t n nb mA3.t n.tE wn mA3.t n.t mA3.t =f
+Period: New Kingdom
+
+Text: tr shw.t =k wnn kh.t =k
+Period: New Kingdom
+
+Text: Erp Eshd nbs dAb EArr(.w)t sx.t wAḏ(.t)
+Period: Old Kingdom
+
+Text: mḏḥ.w-Enp.w-khnt(.E)-tA-ḏsr zḥ.E-ntjr-Enp.w zkhn.w-pr-wr-stx ḥm-ntjr-EgA.E ḥqA-ntjr zA-3b.t ḥm-ntjr-sshA.t kh3i̯-bA.w-zkr rn-3A
+Period: Old Kingdom
+
+Text: ḥ(n)q.t nḏm skhp.t xnw-3.DU bn(E).t wAḏ(.t) qAE Erp Erp-wA dAb nbs w3ḥ Eshd sx.t wAḏ(.t) EArr.(w)t sx.t ḥḏ(.t)
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: Ew qd nfr r skhA.w
+
+Answer:",Middle Kingdom
+rkh mnkh =E ḥr Eb =f,Late Period,"You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given transliteration. Only respond with the name of the period.
+
+Examples:
+Text: ptE Er =f pA Eb E (E)ty 3nkh-(w)ḏA-s(nb) nb =E
+Period: Late Period
+
+Text: mri̯ =E Es st nA ḏd.y =k
+Period: Late Period
+
+Text: shs.(y)t n.t wAḏ.w ḏAr.t 3sh 3ḏ mrḥ.t
+Period: Late Period
+
+Text: 3ḥ3 zA =k ḥr ns.t =k 3pr m Er.w =k
+Period: Middle Kingdom
+
+Text: ppy nfr-kA-r3w pw gbb rʾ p3n (E)r(.E)-p3(.t)-ntjr.PL di̯.n (E)tm(.w) khnt psḏ.t ḥtp.w ntjr.PL ḥr ḏd.t =f
+Period: Middle Kingdom
+
+Text: zE ḏḥw.tE ḥn3 kA =f
+Period: Middle Kingdom
+
+Text: nn khnms n sxi̯ mA3.t
+Period: New Kingdom
+
+Text: Eri̯ mA3.t n nb mA3.t n.tE wn mA3.t n.t mA3.t =f
+Period: New Kingdom
+
+Text: tr shw.t =k wnn kh.t =k
+Period: New Kingdom
+
+Text: Erp Eshd nbs dAb EArr(.w)t sx.t wAḏ(.t)
+Period: Old Kingdom
+
+Text: mḏḥ.w-Enp.w-khnt(.E)-tA-ḏsr zḥ.E-ntjr-Enp.w zkhn.w-pr-wr-stx ḥm-ntjr-EgA.E ḥqA-ntjr zA-3b.t ḥm-ntjr-sshA.t kh3i̯-bA.w-zkr rn-3A
+Period: Old Kingdom
+
+Text: ḥ(n)q.t nḏm skhp.t xnw-3.DU bn(E).t wAḏ(.t) qAE Erp Erp-wA dAb nbs w3ḥ Eshd sx.t wAḏ(.t) EArr.(w)t sx.t ḥḏ(.t)
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: rkh mnkh =E ḥr Eb =f
+
+Answer:",Late Period
+Eyi̯.n =E 3A r nEs r =k m wpw.t n.t Et =E kh(w)fw mA3-khrw wnm =k shpss n(.E) ḏḏ nswt ḏfA.w n(.E) Em.E.w.PL-shms.w =f,Late Period,"You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given transliteration. Only respond with the name of the period.
+
+Examples:
+Text: ptE Er =f pA Eb E (E)ty 3nkh-(w)ḏA-s(nb) nb =E
+Period: Late Period
+
+Text: mri̯ =E Es st nA ḏd.y =k
+Period: Late Period
+
+Text: shs.(y)t n.t wAḏ.w ḏAr.t 3sh 3ḏ mrḥ.t
+Period: Late Period
+
+Text: 3ḥ3 zA =k ḥr ns.t =k 3pr m Er.w =k
+Period: Middle Kingdom
+
+Text: ppy nfr-kA-r3w pw gbb rʾ p3n (E)r(.E)-p3(.t)-ntjr.PL di̯.n (E)tm(.w) khnt psḏ.t ḥtp.w ntjr.PL ḥr ḏd.t =f
+Period: Middle Kingdom
+
+Text: zE ḏḥw.tE ḥn3 kA =f
+Period: Middle Kingdom
+
+Text: nn khnms n sxi̯ mA3.t
+Period: New Kingdom
+
+Text: Eri̯ mA3.t n nb mA3.t n.tE wn mA3.t n.t mA3.t =f
+Period: New Kingdom
+
+Text: tr shw.t =k wnn kh.t =k
+Period: New Kingdom
+
+Text: Erp Eshd nbs dAb EArr(.w)t sx.t wAḏ(.t)
+Period: Old Kingdom
+
+Text: mḏḥ.w-Enp.w-khnt(.E)-tA-ḏsr zḥ.E-ntjr-Enp.w zkhn.w-pr-wr-stx ḥm-ntjr-EgA.E ḥqA-ntjr zA-3b.t ḥm-ntjr-sshA.t kh3i̯-bA.w-zkr rn-3A
+Period: Old Kingdom
+
+Text: ḥ(n)q.t nḏm skhp.t xnw-3.DU bn(E).t wAḏ(.t) qAE Erp Erp-wA dAb nbs w3ḥ Eshd sx.t wAḏ(.t) EArr.(w)t sx.t ḥḏ(.t)
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: Eyi̯.n =E 3A r nEs r =k m wpw.t n.t Et =E kh(w)fw mA3-khrw wnm =k shpss n(.E) ḏḏ nswt ḏfA.w n(.E) Em.E.w.PL-shms.w =f
+
+Answer:",Old Kingdom
+sḏr wr pn E:bAn r =f,Middle Kingdom,"You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given transliteration. Only respond with the name of the period.
+
+Examples:
+Text: ptE Er =f pA Eb E (E)ty 3nkh-(w)ḏA-s(nb) nb =E
+Period: Late Period
+
+Text: mri̯ =E Es st nA ḏd.y =k
+Period: Late Period
+
+Text: shs.(y)t n.t wAḏ.w ḏAr.t 3sh 3ḏ mrḥ.t
+Period: Late Period
+
+Text: 3ḥ3 zA =k ḥr ns.t =k 3pr m Er.w =k
+Period: Middle Kingdom
+
+Text: ppy nfr-kA-r3w pw gbb rʾ p3n (E)r(.E)-p3(.t)-ntjr.PL di̯.n (E)tm(.w) khnt psḏ.t ḥtp.w ntjr.PL ḥr ḏd.t =f
+Period: Middle Kingdom
+
+Text: zE ḏḥw.tE ḥn3 kA =f
+Period: Middle Kingdom
+
+Text: nn khnms n sxi̯ mA3.t
+Period: New Kingdom
+
+Text: Eri̯ mA3.t n nb mA3.t n.tE wn mA3.t n.t mA3.t =f
+Period: New Kingdom
+
+Text: tr shw.t =k wnn kh.t =k
+Period: New Kingdom
+
+Text: Erp Eshd nbs dAb EArr(.w)t sx.t wAḏ(.t)
+Period: Old Kingdom
+
+Text: mḏḥ.w-Enp.w-khnt(.E)-tA-ḏsr zḥ.E-ntjr-Enp.w zkhn.w-pr-wr-stx ḥm-ntjr-EgA.E ḥqA-ntjr zA-3b.t ḥm-ntjr-sshA.t kh3i̯-bA.w-zkr rn-3A
+Period: Old Kingdom
+
+Text: ḥ(n)q.t nḏm skhp.t xnw-3.DU bn(E).t wAḏ(.t) qAE Erp Erp-wA dAb nbs w3ḥ Eshd sx.t wAḏ(.t) EArr.(w)t sx.t ḥḏ(.t)
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: sḏr wr pn E:bAn r =f
+
+Answer:",New Kingdom
+rḏi̯.khr =k n =f ḥAy.t ḥr =f n.t xn(w) zwn.w,Late Period,"You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given transliteration. Only respond with the name of the period.
+
+Examples:
+Text: ptE Er =f pA Eb E (E)ty 3nkh-(w)ḏA-s(nb) nb =E
+Period: Late Period
+
+Text: mri̯ =E Es st nA ḏd.y =k
+Period: Late Period
+
+Text: shs.(y)t n.t wAḏ.w ḏAr.t 3sh 3ḏ mrḥ.t
+Period: Late Period
+
+Text: 3ḥ3 zA =k ḥr ns.t =k 3pr m Er.w =k
+Period: Middle Kingdom
+
+Text: ppy nfr-kA-r3w pw gbb rʾ p3n (E)r(.E)-p3(.t)-ntjr.PL di̯.n (E)tm(.w) khnt psḏ.t ḥtp.w ntjr.PL ḥr ḏd.t =f
+Period: Middle Kingdom
+
+Text: zE ḏḥw.tE ḥn3 kA =f
+Period: Middle Kingdom
+
+Text: nn khnms n sxi̯ mA3.t
+Period: New Kingdom
+
+Text: Eri̯ mA3.t n nb mA3.t n.tE wn mA3.t n.t mA3.t =f
+Period: New Kingdom
+
+Text: tr shw.t =k wnn kh.t =k
+Period: New Kingdom
+
+Text: Erp Eshd nbs dAb EArr(.w)t sx.t wAḏ(.t)
+Period: Old Kingdom
+
+Text: mḏḥ.w-Enp.w-khnt(.E)-tA-ḏsr zḥ.E-ntjr-Enp.w zkhn.w-pr-wr-stx ḥm-ntjr-EgA.E ḥqA-ntjr zA-3b.t ḥm-ntjr-sshA.t kh3i̯-bA.w-zkr rn-3A
+Period: Old Kingdom
+
+Text: ḥ(n)q.t nḏm skhp.t xnw-3.DU bn(E).t wAḏ(.t) qAE Erp Erp-wA dAb nbs w3ḥ Eshd sx.t wAḏ(.t) EArr.(w)t sx.t ḥḏ(.t)
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: rḏi̯.khr =k n =f ḥAy.t ḥr =f n.t xn(w) zwn.w
+
+Answer:",Late Period
+E shp-ḥr pw ḥr(.E) ḥr =f,New Kingdom,"You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given transliteration. Only respond with the name of the period.
+
+Examples:
+Text: ptE Er =f pA Eb E (E)ty 3nkh-(w)ḏA-s(nb) nb =E
+Period: Late Period
+
+Text: mri̯ =E Es st nA ḏd.y =k
+Period: Late Period
+
+Text: shs.(y)t n.t wAḏ.w ḏAr.t 3sh 3ḏ mrḥ.t
+Period: Late Period
+
+Text: 3ḥ3 zA =k ḥr ns.t =k 3pr m Er.w =k
+Period: Middle Kingdom
+
+Text: ppy nfr-kA-r3w pw gbb rʾ p3n (E)r(.E)-p3(.t)-ntjr.PL di̯.n (E)tm(.w) khnt psḏ.t ḥtp.w ntjr.PL ḥr ḏd.t =f
+Period: Middle Kingdom
+
+Text: zE ḏḥw.tE ḥn3 kA =f
+Period: Middle Kingdom
+
+Text: nn khnms n sxi̯ mA3.t
+Period: New Kingdom
+
+Text: Eri̯ mA3.t n nb mA3.t n.tE wn mA3.t n.t mA3.t =f
+Period: New Kingdom
+
+Text: tr shw.t =k wnn kh.t =k
+Period: New Kingdom
+
+Text: Erp Eshd nbs dAb EArr(.w)t sx.t wAḏ(.t)
+Period: Old Kingdom
+
+Text: mḏḥ.w-Enp.w-khnt(.E)-tA-ḏsr zḥ.E-ntjr-Enp.w zkhn.w-pr-wr-stx ḥm-ntjr-EgA.E ḥqA-ntjr zA-3b.t ḥm-ntjr-sshA.t kh3i̯-bA.w-zkr rn-3A
+Period: Old Kingdom
+
+Text: ḥ(n)q.t nḏm skhp.t xnw-3.DU bn(E).t wAḏ(.t) qAE Erp Erp-wA dAb nbs w3ḥ Eshd sx.t wAḏ(.t) EArr.(w)t sx.t ḥḏ(.t)
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: E shp-ḥr pw ḥr(.E) ḥr =f
+
+Answer:",New Kingdom
+wrshu̯ wnEs sḏr =f sḥtp =f nw(.t).DU m wnw,Middle Kingdom,"You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given transliteration. Only respond with the name of the period.
+
+Examples:
+Text: ptE Er =f pA Eb E (E)ty 3nkh-(w)ḏA-s(nb) nb =E
+Period: Late Period
+
+Text: mri̯ =E Es st nA ḏd.y =k
+Period: Late Period
+
+Text: shs.(y)t n.t wAḏ.w ḏAr.t 3sh 3ḏ mrḥ.t
+Period: Late Period
+
+Text: 3ḥ3 zA =k ḥr ns.t =k 3pr m Er.w =k
+Period: Middle Kingdom
+
+Text: ppy nfr-kA-r3w pw gbb rʾ p3n (E)r(.E)-p3(.t)-ntjr.PL di̯.n (E)tm(.w) khnt psḏ.t ḥtp.w ntjr.PL ḥr ḏd.t =f
+Period: Middle Kingdom
+
+Text: zE ḏḥw.tE ḥn3 kA =f
+Period: Middle Kingdom
+
+Text: nn khnms n sxi̯ mA3.t
+Period: New Kingdom
+
+Text: Eri̯ mA3.t n nb mA3.t n.tE wn mA3.t n.t mA3.t =f
+Period: New Kingdom
+
+Text: tr shw.t =k wnn kh.t =k
+Period: New Kingdom
+
+Text: Erp Eshd nbs dAb EArr(.w)t sx.t wAḏ(.t)
+Period: Old Kingdom
+
+Text: mḏḥ.w-Enp.w-khnt(.E)-tA-ḏsr zḥ.E-ntjr-Enp.w zkhn.w-pr-wr-stx ḥm-ntjr-EgA.E ḥqA-ntjr zA-3b.t ḥm-ntjr-sshA.t kh3i̯-bA.w-zkr rn-3A
+Period: Old Kingdom
+
+Text: ḥ(n)q.t nḏm skhp.t xnw-3.DU bn(E).t wAḏ(.t) qAE Erp Erp-wA dAb nbs w3ḥ Eshd sx.t wAḏ(.t) EArr.(w)t sx.t ḥḏ(.t)
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: wrshu̯ wnEs sḏr =f sḥtp =f nw(.t).DU m wnw
+
+Answer:",Middle Kingdom
+zAb-nkht-khrw wr-mḏ-ḥw.t-3nkh ḥr.E-sshtA-skh(r.w) sḥḏ-(E)r(.w)-xkr-zA-wAḏ.t sḥḏ-ḥw.t-ns.t-ḥA.t-mḥ.yt-zA-wr ḥr.E-sshtA-skh(r.w)-Ew3-ntjr (E)m(.E)-rʾ-ns.wt-ḥw.t-bAs.tt-zA-wr (E)r(.E)-(E)kh.t-nzw ḥtpE,Old Kingdom,"You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given transliteration. Only respond with the name of the period.
+
+Examples:
+Text: ptE Er =f pA Eb E (E)ty 3nkh-(w)ḏA-s(nb) nb =E
+Period: Late Period
+
+Text: mri̯ =E Es st nA ḏd.y =k
+Period: Late Period
+
+Text: shs.(y)t n.t wAḏ.w ḏAr.t 3sh 3ḏ mrḥ.t
+Period: Late Period
+
+Text: 3ḥ3 zA =k ḥr ns.t =k 3pr m Er.w =k
+Period: Middle Kingdom
+
+Text: ppy nfr-kA-r3w pw gbb rʾ p3n (E)r(.E)-p3(.t)-ntjr.PL di̯.n (E)tm(.w) khnt psḏ.t ḥtp.w ntjr.PL ḥr ḏd.t =f
+Period: Middle Kingdom
+
+Text: zE ḏḥw.tE ḥn3 kA =f
+Period: Middle Kingdom
+
+Text: nn khnms n sxi̯ mA3.t
+Period: New Kingdom
+
+Text: Eri̯ mA3.t n nb mA3.t n.tE wn mA3.t n.t mA3.t =f
+Period: New Kingdom
+
+Text: tr shw.t =k wnn kh.t =k
+Period: New Kingdom
+
+Text: Erp Eshd nbs dAb EArr(.w)t sx.t wAḏ(.t)
+Period: Old Kingdom
+
+Text: mḏḥ.w-Enp.w-khnt(.E)-tA-ḏsr zḥ.E-ntjr-Enp.w zkhn.w-pr-wr-stx ḥm-ntjr-EgA.E ḥqA-ntjr zA-3b.t ḥm-ntjr-sshA.t kh3i̯-bA.w-zkr rn-3A
+Period: Old Kingdom
+
+Text: ḥ(n)q.t nḏm skhp.t xnw-3.DU bn(E).t wAḏ(.t) qAE Erp Erp-wA dAb nbs w3ḥ Eshd sx.t wAḏ(.t) EArr.(w)t sx.t ḥḏ(.t)
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: zAb-nkht-khrw wr-mḏ-ḥw.t-3nkh ḥr.E-sshtA-skh(r.w) sḥḏ-(E)r(.w)-xkr-zA-wAḏ.t sḥḏ-ḥw.t-ns.t-ḥA.t-mḥ.yt-zA-wr ḥr.E-sshtA-skh(r.w)-Ew3-ntjr (E)m(.E)-rʾ-ns.wt-ḥw.t-bAs.tt-zA-wr (E)r(.E)-(E)kh.t-nzw ḥtpE
+
+Answer:",Late Period
+ḥtp-ḏi̯ nswt ḥtp-ḏi̯ Enp.w n =sn r3w-nb,Middle Kingdom,"You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given transliteration. Only respond with the name of the period.
+
+Examples:
+Text: ptE Er =f pA Eb E (E)ty 3nkh-(w)ḏA-s(nb) nb =E
+Period: Late Period
+
+Text: mri̯ =E Es st nA ḏd.y =k
+Period: Late Period
+
+Text: shs.(y)t n.t wAḏ.w ḏAr.t 3sh 3ḏ mrḥ.t
+Period: Late Period
+
+Text: 3ḥ3 zA =k ḥr ns.t =k 3pr m Er.w =k
+Period: Middle Kingdom
+
+Text: ppy nfr-kA-r3w pw gbb rʾ p3n (E)r(.E)-p3(.t)-ntjr.PL di̯.n (E)tm(.w) khnt psḏ.t ḥtp.w ntjr.PL ḥr ḏd.t =f
+Period: Middle Kingdom
+
+Text: zE ḏḥw.tE ḥn3 kA =f
+Period: Middle Kingdom
+
+Text: nn khnms n sxi̯ mA3.t
+Period: New Kingdom
+
+Text: Eri̯ mA3.t n nb mA3.t n.tE wn mA3.t n.t mA3.t =f
+Period: New Kingdom
+
+Text: tr shw.t =k wnn kh.t =k
+Period: New Kingdom
+
+Text: Erp Eshd nbs dAb EArr(.w)t sx.t wAḏ(.t)
+Period: Old Kingdom
+
+Text: mḏḥ.w-Enp.w-khnt(.E)-tA-ḏsr zḥ.E-ntjr-Enp.w zkhn.w-pr-wr-stx ḥm-ntjr-EgA.E ḥqA-ntjr zA-3b.t ḥm-ntjr-sshA.t kh3i̯-bA.w-zkr rn-3A
+Period: Old Kingdom
+
+Text: ḥ(n)q.t nḏm skhp.t xnw-3.DU bn(E).t wAḏ(.t) qAE Erp Erp-wA dAb nbs w3ḥ Eshd sx.t wAḏ(.t) EArr.(w)t sx.t ḥḏ(.t)
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: ḥtp-ḏi̯ nswt ḥtp-ḏi̯ Enp.w n =sn r3w-nb
+
+Answer:",Middle Kingdom
+msi̯ =s Er =f zE nw r(w)d-ḏd.t,Late Period,"You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given transliteration. Only respond with the name of the period.
+
+Examples:
+Text: ptE Er =f pA Eb E (E)ty 3nkh-(w)ḏA-s(nb) nb =E
+Period: Late Period
+
+Text: mri̯ =E Es st nA ḏd.y =k
+Period: Late Period
+
+Text: shs.(y)t n.t wAḏ.w ḏAr.t 3sh 3ḏ mrḥ.t
+Period: Late Period
+
+Text: 3ḥ3 zA =k ḥr ns.t =k 3pr m Er.w =k
+Period: Middle Kingdom
+
+Text: ppy nfr-kA-r3w pw gbb rʾ p3n (E)r(.E)-p3(.t)-ntjr.PL di̯.n (E)tm(.w) khnt psḏ.t ḥtp.w ntjr.PL ḥr ḏd.t =f
+Period: Middle Kingdom
+
+Text: zE ḏḥw.tE ḥn3 kA =f
+Period: Middle Kingdom
+
+Text: nn khnms n sxi̯ mA3.t
+Period: New Kingdom
+
+Text: Eri̯ mA3.t n nb mA3.t n.tE wn mA3.t n.t mA3.t =f
+Period: New Kingdom
+
+Text: tr shw.t =k wnn kh.t =k
+Period: New Kingdom
+
+Text: Erp Eshd nbs dAb EArr(.w)t sx.t wAḏ(.t)
+Period: Old Kingdom
+
+Text: mḏḥ.w-Enp.w-khnt(.E)-tA-ḏsr zḥ.E-ntjr-Enp.w zkhn.w-pr-wr-stx ḥm-ntjr-EgA.E ḥqA-ntjr zA-3b.t ḥm-ntjr-sshA.t kh3i̯-bA.w-zkr rn-3A
+Period: Old Kingdom
+
+Text: ḥ(n)q.t nḏm skhp.t xnw-3.DU bn(E).t wAḏ(.t) qAE Erp Erp-wA dAb nbs w3ḥ Eshd sx.t wAḏ(.t) EArr.(w)t sx.t ḥḏ(.t)
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: msi̯ =s Er =f zE nw r(w)d-ḏd.t
+
+Answer:",New Kingdom
+3ḥ3 =k ḥr nkht =k Eri̯ =k wn.t =k Eri̯ =k m-bAḥ,Middle Kingdom,"You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given transliteration. Only respond with the name of the period.
+
+Examples:
+Text: ptE Er =f pA Eb E (E)ty 3nkh-(w)ḏA-s(nb) nb =E
+Period: Late Period
+
+Text: mri̯ =E Es st nA ḏd.y =k
+Period: Late Period
+
+Text: shs.(y)t n.t wAḏ.w ḏAr.t 3sh 3ḏ mrḥ.t
+Period: Late Period
+
+Text: 3ḥ3 zA =k ḥr ns.t =k 3pr m Er.w =k
+Period: Middle Kingdom
+
+Text: ppy nfr-kA-r3w pw gbb rʾ p3n (E)r(.E)-p3(.t)-ntjr.PL di̯.n (E)tm(.w) khnt psḏ.t ḥtp.w ntjr.PL ḥr ḏd.t =f
+Period: Middle Kingdom
+
+Text: zE ḏḥw.tE ḥn3 kA =f
+Period: Middle Kingdom
+
+Text: nn khnms n sxi̯ mA3.t
+Period: New Kingdom
+
+Text: Eri̯ mA3.t n nb mA3.t n.tE wn mA3.t n.t mA3.t =f
+Period: New Kingdom
+
+Text: tr shw.t =k wnn kh.t =k
+Period: New Kingdom
+
+Text: Erp Eshd nbs dAb EArr(.w)t sx.t wAḏ(.t)
+Period: Old Kingdom
+
+Text: mḏḥ.w-Enp.w-khnt(.E)-tA-ḏsr zḥ.E-ntjr-Enp.w zkhn.w-pr-wr-stx ḥm-ntjr-EgA.E ḥqA-ntjr zA-3b.t ḥm-ntjr-sshA.t kh3i̯-bA.w-zkr rn-3A
+Period: Old Kingdom
+
+Text: ḥ(n)q.t nḏm skhp.t xnw-3.DU bn(E).t wAḏ(.t) qAE Erp Erp-wA dAb nbs w3ḥ Eshd sx.t wAḏ(.t) EArr.(w)t sx.t ḥḏ(.t)
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: 3ḥ3 =k ḥr nkht =k Eri̯ =k wn.t =k Eri̯ =k m-bAḥ
+
+Answer:",New Kingdom
+zA-r3 sbk-m-zA=f di̯(.w) 3nkh ḏ.t,Late Period,"You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given transliteration. Only respond with the name of the period.
+
+Examples:
+Text: ptE Er =f pA Eb E (E)ty 3nkh-(w)ḏA-s(nb) nb =E
+Period: Late Period
+
+Text: mri̯ =E Es st nA ḏd.y =k
+Period: Late Period
+
+Text: shs.(y)t n.t wAḏ.w ḏAr.t 3sh 3ḏ mrḥ.t
+Period: Late Period
+
+Text: 3ḥ3 zA =k ḥr ns.t =k 3pr m Er.w =k
+Period: Middle Kingdom
+
+Text: ppy nfr-kA-r3w pw gbb rʾ p3n (E)r(.E)-p3(.t)-ntjr.PL di̯.n (E)tm(.w) khnt psḏ.t ḥtp.w ntjr.PL ḥr ḏd.t =f
+Period: Middle Kingdom
+
+Text: zE ḏḥw.tE ḥn3 kA =f
+Period: Middle Kingdom
+
+Text: nn khnms n sxi̯ mA3.t
+Period: New Kingdom
+
+Text: Eri̯ mA3.t n nb mA3.t n.tE wn mA3.t n.t mA3.t =f
+Period: New Kingdom
+
+Text: tr shw.t =k wnn kh.t =k
+Period: New Kingdom
+
+Text: Erp Eshd nbs dAb EArr(.w)t sx.t wAḏ(.t)
+Period: Old Kingdom
+
+Text: mḏḥ.w-Enp.w-khnt(.E)-tA-ḏsr zḥ.E-ntjr-Enp.w zkhn.w-pr-wr-stx ḥm-ntjr-EgA.E ḥqA-ntjr zA-3b.t ḥm-ntjr-sshA.t kh3i̯-bA.w-zkr rn-3A
+Period: Old Kingdom
+
+Text: ḥ(n)q.t nḏm skhp.t xnw-3.DU bn(E).t wAḏ(.t) qAE Erp Erp-wA dAb nbs w3ḥ Eshd sx.t wAḏ(.t) EArr.(w)t sx.t ḥḏ(.t)
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: zA-r3 sbk-m-zA=f di̯(.w) 3nkh ḏ.t
+
+Answer:","Now, classify this text:  Text: zA-r3 sbk-m-zA=f di̯(.w) 3nkh ḏ.t"
+rḏi̯ =sn pr.t-khrw tʾ ḥ(n)q.t Eḥ.PL Apd.PL shs mnkh.t sntjr mrḥ.t (E)kh.t nb.t nfr.t w3b.t 3nkh.t(E) ntjr Em n kA n(.E),New Kingdom,"You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given transliteration. Only respond with the name of the period.
+
+Examples:
+Text: ptE Er =f pA Eb E (E)ty 3nkh-(w)ḏA-s(nb) nb =E
+Period: Late Period
+
+Text: mri̯ =E Es st nA ḏd.y =k
+Period: Late Period
+
+Text: shs.(y)t n.t wAḏ.w ḏAr.t 3sh 3ḏ mrḥ.t
+Period: Late Period
+
+Text: 3ḥ3 zA =k ḥr ns.t =k 3pr m Er.w =k
+Period: Middle Kingdom
+
+Text: ppy nfr-kA-r3w pw gbb rʾ p3n (E)r(.E)-p3(.t)-ntjr.PL di̯.n (E)tm(.w) khnt psḏ.t ḥtp.w ntjr.PL ḥr ḏd.t =f
+Period: Middle Kingdom
+
+Text: zE ḏḥw.tE ḥn3 kA =f
+Period: Middle Kingdom
+
+Text: nn khnms n sxi̯ mA3.t
+Period: New Kingdom
+
+Text: Eri̯ mA3.t n nb mA3.t n.tE wn mA3.t n.t mA3.t =f
+Period: New Kingdom
+
+Text: tr shw.t =k wnn kh.t =k
+Period: New Kingdom
+
+Text: Erp Eshd nbs dAb EArr(.w)t sx.t wAḏ(.t)
+Period: Old Kingdom
+
+Text: mḏḥ.w-Enp.w-khnt(.E)-tA-ḏsr zḥ.E-ntjr-Enp.w zkhn.w-pr-wr-stx ḥm-ntjr-EgA.E ḥqA-ntjr zA-3b.t ḥm-ntjr-sshA.t kh3i̯-bA.w-zkr rn-3A
+Period: Old Kingdom
+
+Text: ḥ(n)q.t nḏm skhp.t xnw-3.DU bn(E).t wAḏ(.t) qAE Erp Erp-wA dAb nbs w3ḥ Eshd sx.t wAḏ(.t) EArr.(w)t sx.t ḥḏ(.t)
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: rḏi̯ =sn pr.t-khrw tʾ ḥ(n)q.t Eḥ.PL Apd.PL shs mnkh.t sntjr mrḥ.t (E)kh.t nb.t nfr.t w3b.t 3nkh.t(E) ntjr Em n kA n(.E)
+
+Answer:",Middle Kingdom
+shsA.w bnw.t tp sqr m qAb.t =f,Late Period,"You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given transliteration. Only respond with the name of the period.
+
+Examples:
+Text: ptE Er =f pA Eb E (E)ty 3nkh-(w)ḏA-s(nb) nb =E
+Period: Late Period
+
+Text: mri̯ =E Es st nA ḏd.y =k
+Period: Late Period
+
+Text: shs.(y)t n.t wAḏ.w ḏAr.t 3sh 3ḏ mrḥ.t
+Period: Late Period
+
+Text: 3ḥ3 zA =k ḥr ns.t =k 3pr m Er.w =k
+Period: Middle Kingdom
+
+Text: ppy nfr-kA-r3w pw gbb rʾ p3n (E)r(.E)-p3(.t)-ntjr.PL di̯.n (E)tm(.w) khnt psḏ.t ḥtp.w ntjr.PL ḥr ḏd.t =f
+Period: Middle Kingdom
+
+Text: zE ḏḥw.tE ḥn3 kA =f
+Period: Middle Kingdom
+
+Text: nn khnms n sxi̯ mA3.t
+Period: New Kingdom
+
+Text: Eri̯ mA3.t n nb mA3.t n.tE wn mA3.t n.t mA3.t =f
+Period: New Kingdom
+
+Text: tr shw.t =k wnn kh.t =k
+Period: New Kingdom
+
+Text: Erp Eshd nbs dAb EArr(.w)t sx.t wAḏ(.t)
+Period: Old Kingdom
+
+Text: mḏḥ.w-Enp.w-khnt(.E)-tA-ḏsr zḥ.E-ntjr-Enp.w zkhn.w-pr-wr-stx ḥm-ntjr-EgA.E ḥqA-ntjr zA-3b.t ḥm-ntjr-sshA.t kh3i̯-bA.w-zkr rn-3A
+Period: Old Kingdom
+
+Text: ḥ(n)q.t nḏm skhp.t xnw-3.DU bn(E).t wAḏ(.t) qAE Erp Erp-wA dAb nbs w3ḥ Eshd sx.t wAḏ(.t) EArr.(w)t sx.t ḥḏ(.t)
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: shsA.w bnw.t tp sqr m qAb.t =f
+
+Answer:",New Kingdom
+mḏḥ.w-Enp.w-khnt(.E)-tA-ḏsr zḥ.E-ntjr-Enp.w ḥqA-ntjr ḥm-ntjr-EgA.E zkhn.w-pr-wr-stx khrp-fnkh.w zA-3b.t ḥm-ntjr-sshA.t (E)r(.E)-(E)kh.t-nzw kh3i̯-bA.w-zkr rn-3A ḥtjs rn-nḏs,Old Kingdom,"You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given transliteration. Only respond with the name of the period.
+
+Examples:
+Text: ptE Er =f pA Eb E (E)ty 3nkh-(w)ḏA-s(nb) nb =E
+Period: Late Period
+
+Text: mri̯ =E Es st nA ḏd.y =k
+Period: Late Period
+
+Text: shs.(y)t n.t wAḏ.w ḏAr.t 3sh 3ḏ mrḥ.t
+Period: Late Period
+
+Text: 3ḥ3 zA =k ḥr ns.t =k 3pr m Er.w =k
+Period: Middle Kingdom
+
+Text: ppy nfr-kA-r3w pw gbb rʾ p3n (E)r(.E)-p3(.t)-ntjr.PL di̯.n (E)tm(.w) khnt psḏ.t ḥtp.w ntjr.PL ḥr ḏd.t =f
+Period: Middle Kingdom
+
+Text: zE ḏḥw.tE ḥn3 kA =f
+Period: Middle Kingdom
+
+Text: nn khnms n sxi̯ mA3.t
+Period: New Kingdom
+
+Text: Eri̯ mA3.t n nb mA3.t n.tE wn mA3.t n.t mA3.t =f
+Period: New Kingdom
+
+Text: tr shw.t =k wnn kh.t =k
+Period: New Kingdom
+
+Text: Erp Eshd nbs dAb EArr(.w)t sx.t wAḏ(.t)
+Period: Old Kingdom
+
+Text: mḏḥ.w-Enp.w-khnt(.E)-tA-ḏsr zḥ.E-ntjr-Enp.w zkhn.w-pr-wr-stx ḥm-ntjr-EgA.E ḥqA-ntjr zA-3b.t ḥm-ntjr-sshA.t kh3i̯-bA.w-zkr rn-3A
+Period: Old Kingdom
+
+Text: ḥ(n)q.t nḏm skhp.t xnw-3.DU bn(E).t wAḏ(.t) qAE Erp Erp-wA dAb nbs w3ḥ Eshd sx.t wAḏ(.t) EArr.(w)t sx.t ḥḏ(.t)
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: mḏḥ.w-Enp.w-khnt(.E)-tA-ḏsr zḥ.E-ntjr-Enp.w ḥqA-ntjr ḥm-ntjr-EgA.E zkhn.w-pr-wr-stx khrp-fnkh.w zA-3b.t ḥm-ntjr-sshA.t (E)r(.E)-(E)kh.t-nzw kh3i̯-bA.w-zkr rn-3A ḥtjs rn-nḏs
+
+Answer:",Old Kingdom
+wr-mḏ-shm3.w ḥm-ntjr-nzr-ẖr.tE (E)r(.E)-(E)kh.t-nzw sqr-Enp.w mdw-kA-ḥḏ spA,Old Kingdom,"You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given transliteration. Only respond with the name of the period.
+
+Examples:
+Text: ptE Er =f pA Eb E (E)ty 3nkh-(w)ḏA-s(nb) nb =E
+Period: Late Period
+
+Text: mri̯ =E Es st nA ḏd.y =k
+Period: Late Period
+
+Text: shs.(y)t n.t wAḏ.w ḏAr.t 3sh 3ḏ mrḥ.t
+Period: Late Period
+
+Text: 3ḥ3 zA =k ḥr ns.t =k 3pr m Er.w =k
+Period: Middle Kingdom
+
+Text: ppy nfr-kA-r3w pw gbb rʾ p3n (E)r(.E)-p3(.t)-ntjr.PL di̯.n (E)tm(.w) khnt psḏ.t ḥtp.w ntjr.PL ḥr ḏd.t =f
+Period: Middle Kingdom
+
+Text: zE ḏḥw.tE ḥn3 kA =f
+Period: Middle Kingdom
+
+Text: nn khnms n sxi̯ mA3.t
+Period: New Kingdom
+
+Text: Eri̯ mA3.t n nb mA3.t n.tE wn mA3.t n.t mA3.t =f
+Period: New Kingdom
+
+Text: tr shw.t =k wnn kh.t =k
+Period: New Kingdom
+
+Text: Erp Eshd nbs dAb EArr(.w)t sx.t wAḏ(.t)
+Period: Old Kingdom
+
+Text: mḏḥ.w-Enp.w-khnt(.E)-tA-ḏsr zḥ.E-ntjr-Enp.w zkhn.w-pr-wr-stx ḥm-ntjr-EgA.E ḥqA-ntjr zA-3b.t ḥm-ntjr-sshA.t kh3i̯-bA.w-zkr rn-3A
+Period: Old Kingdom
+
+Text: ḥ(n)q.t nḏm skhp.t xnw-3.DU bn(E).t wAḏ(.t) qAE Erp Erp-wA dAb nbs w3ḥ Eshd sx.t wAḏ(.t) EArr.(w)t sx.t ḥḏ(.t)
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: wr-mḏ-shm3.w ḥm-ntjr-nzr-ẖr.tE (E)r(.E)-(E)kh.t-nzw sqr-Enp.w mdw-kA-ḥḏ spA
+
+Answer:",Late Period
+Enk nw n(.E) EE ḏs =f n khkhmm,New Kingdom,"You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given transliteration. Only respond with the name of the period.
+
+Examples:
+Text: ptE Er =f pA Eb E (E)ty 3nkh-(w)ḏA-s(nb) nb =E
+Period: Late Period
+
+Text: mri̯ =E Es st nA ḏd.y =k
+Period: Late Period
+
+Text: shs.(y)t n.t wAḏ.w ḏAr.t 3sh 3ḏ mrḥ.t
+Period: Late Period
+
+Text: 3ḥ3 zA =k ḥr ns.t =k 3pr m Er.w =k
+Period: Middle Kingdom
+
+Text: ppy nfr-kA-r3w pw gbb rʾ p3n (E)r(.E)-p3(.t)-ntjr.PL di̯.n (E)tm(.w) khnt psḏ.t ḥtp.w ntjr.PL ḥr ḏd.t =f
+Period: Middle Kingdom
+
+Text: zE ḏḥw.tE ḥn3 kA =f
+Period: Middle Kingdom
+
+Text: nn khnms n sxi̯ mA3.t
+Period: New Kingdom
+
+Text: Eri̯ mA3.t n nb mA3.t n.tE wn mA3.t n.t mA3.t =f
+Period: New Kingdom
+
+Text: tr shw.t =k wnn kh.t =k
+Period: New Kingdom
+
+Text: Erp Eshd nbs dAb EArr(.w)t sx.t wAḏ(.t)
+Period: Old Kingdom
+
+Text: mḏḥ.w-Enp.w-khnt(.E)-tA-ḏsr zḥ.E-ntjr-Enp.w zkhn.w-pr-wr-stx ḥm-ntjr-EgA.E ḥqA-ntjr zA-3b.t ḥm-ntjr-sshA.t kh3i̯-bA.w-zkr rn-3A
+Period: Old Kingdom
+
+Text: ḥ(n)q.t nḏm skhp.t xnw-3.DU bn(E).t wAḏ(.t) qAE Erp Erp-wA dAb nbs w3ḥ Eshd sx.t wAḏ(.t) EArr.(w)t sx.t ḥḏ(.t)
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: Enk nw n(.E) EE ḏs =f n khkhmm
+
+Answer:",Late Period
+n(.E)-mA3.t-ḥp ḏd(.t) (E)kh.t nb Eri̯(.t) n =s,Old Kingdom,"You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given transliteration. Only respond with the name of the period.
+
+Examples:
+Text: ptE Er =f pA Eb E (E)ty 3nkh-(w)ḏA-s(nb) nb =E
+Period: Late Period
+
+Text: mri̯ =E Es st nA ḏd.y =k
+Period: Late Period
+
+Text: shs.(y)t n.t wAḏ.w ḏAr.t 3sh 3ḏ mrḥ.t
+Period: Late Period
+
+Text: 3ḥ3 zA =k ḥr ns.t =k 3pr m Er.w =k
+Period: Middle Kingdom
+
+Text: ppy nfr-kA-r3w pw gbb rʾ p3n (E)r(.E)-p3(.t)-ntjr.PL di̯.n (E)tm(.w) khnt psḏ.t ḥtp.w ntjr.PL ḥr ḏd.t =f
+Period: Middle Kingdom
+
+Text: zE ḏḥw.tE ḥn3 kA =f
+Period: Middle Kingdom
+
+Text: nn khnms n sxi̯ mA3.t
+Period: New Kingdom
+
+Text: Eri̯ mA3.t n nb mA3.t n.tE wn mA3.t n.t mA3.t =f
+Period: New Kingdom
+
+Text: tr shw.t =k wnn kh.t =k
+Period: New Kingdom
+
+Text: Erp Eshd nbs dAb EArr(.w)t sx.t wAḏ(.t)
+Period: Old Kingdom
+
+Text: mḏḥ.w-Enp.w-khnt(.E)-tA-ḏsr zḥ.E-ntjr-Enp.w zkhn.w-pr-wr-stx ḥm-ntjr-EgA.E ḥqA-ntjr zA-3b.t ḥm-ntjr-sshA.t kh3i̯-bA.w-zkr rn-3A
+Period: Old Kingdom
+
+Text: ḥ(n)q.t nḏm skhp.t xnw-3.DU bn(E).t wAḏ(.t) qAE Erp Erp-wA dAb nbs w3ḥ Eshd sx.t wAḏ(.t) EArr.(w)t sx.t ḥḏ(.t)
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: n(.E)-mA3.t-ḥp ḏd(.t) (E)kh.t nb Eri̯(.t) n =s
+
+Answer:",Middle Kingdom
+nn khm rḏi̯.n =k rkh =f,New Kingdom,"You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given transliteration. Only respond with the name of the period.
+
+Examples:
+Text: ptE Er =f pA Eb E (E)ty 3nkh-(w)ḏA-s(nb) nb =E
+Period: Late Period
+
+Text: mri̯ =E Es st nA ḏd.y =k
+Period: Late Period
+
+Text: shs.(y)t n.t wAḏ.w ḏAr.t 3sh 3ḏ mrḥ.t
+Period: Late Period
+
+Text: 3ḥ3 zA =k ḥr ns.t =k 3pr m Er.w =k
+Period: Middle Kingdom
+
+Text: ppy nfr-kA-r3w pw gbb rʾ p3n (E)r(.E)-p3(.t)-ntjr.PL di̯.n (E)tm(.w) khnt psḏ.t ḥtp.w ntjr.PL ḥr ḏd.t =f
+Period: Middle Kingdom
+
+Text: zE ḏḥw.tE ḥn3 kA =f
+Period: Middle Kingdom
+
+Text: nn khnms n sxi̯ mA3.t
+Period: New Kingdom
+
+Text: Eri̯ mA3.t n nb mA3.t n.tE wn mA3.t n.t mA3.t =f
+Period: New Kingdom
+
+Text: tr shw.t =k wnn kh.t =k
+Period: New Kingdom
+
+Text: Erp Eshd nbs dAb EArr(.w)t sx.t wAḏ(.t)
+Period: Old Kingdom
+
+Text: mḏḥ.w-Enp.w-khnt(.E)-tA-ḏsr zḥ.E-ntjr-Enp.w zkhn.w-pr-wr-stx ḥm-ntjr-EgA.E ḥqA-ntjr zA-3b.t ḥm-ntjr-sshA.t kh3i̯-bA.w-zkr rn-3A
+Period: Old Kingdom
+
+Text: ḥ(n)q.t nḏm skhp.t xnw-3.DU bn(E).t wAḏ(.t) qAE Erp Erp-wA dAb nbs w3ḥ Eshd sx.t wAḏ(.t) EArr.(w)t sx.t ḥḏ(.t)
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: nn khm rḏi̯.n =k rkh =f
+
+Answer:",New Kingdom
+ḥtp-ḏE nswt ḥtp-ḏE Enp.w khnt.E-zḥ-ntjr,Middle Kingdom,"You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given transliteration. Only respond with the name of the period.
+
+Examples:
+Text: ptE Er =f pA Eb E (E)ty 3nkh-(w)ḏA-s(nb) nb =E
+Period: Late Period
+
+Text: mri̯ =E Es st nA ḏd.y =k
+Period: Late Period
+
+Text: shs.(y)t n.t wAḏ.w ḏAr.t 3sh 3ḏ mrḥ.t
+Period: Late Period
+
+Text: 3ḥ3 zA =k ḥr ns.t =k 3pr m Er.w =k
+Period: Middle Kingdom
+
+Text: ppy nfr-kA-r3w pw gbb rʾ p3n (E)r(.E)-p3(.t)-ntjr.PL di̯.n (E)tm(.w) khnt psḏ.t ḥtp.w ntjr.PL ḥr ḏd.t =f
+Period: Middle Kingdom
+
+Text: zE ḏḥw.tE ḥn3 kA =f
+Period: Middle Kingdom
+
+Text: nn khnms n sxi̯ mA3.t
+Period: New Kingdom
+
+Text: Eri̯ mA3.t n nb mA3.t n.tE wn mA3.t n.t mA3.t =f
+Period: New Kingdom
+
+Text: tr shw.t =k wnn kh.t =k
+Period: New Kingdom
+
+Text: Erp Eshd nbs dAb EArr(.w)t sx.t wAḏ(.t)
+Period: Old Kingdom
+
+Text: mḏḥ.w-Enp.w-khnt(.E)-tA-ḏsr zḥ.E-ntjr-Enp.w zkhn.w-pr-wr-stx ḥm-ntjr-EgA.E ḥqA-ntjr zA-3b.t ḥm-ntjr-sshA.t kh3i̯-bA.w-zkr rn-3A
+Period: Old Kingdom
+
+Text: ḥ(n)q.t nḏm skhp.t xnw-3.DU bn(E).t wAḏ(.t) qAE Erp Erp-wA dAb nbs w3ḥ Eshd sx.t wAḏ(.t) EArr.(w)t sx.t ḥḏ(.t)
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: ḥtp-ḏE nswt ḥtp-ḏE Enp.w khnt.E-zḥ-ntjr
+
+Answer:",Middle Kingdom
+Ew qsn wn rʾ =f xr =s,Late Period,"You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given transliteration. Only respond with the name of the period.
+
+Examples:
+Text: ptE Er =f pA Eb E (E)ty 3nkh-(w)ḏA-s(nb) nb =E
+Period: Late Period
+
+Text: mri̯ =E Es st nA ḏd.y =k
+Period: Late Period
+
+Text: shs.(y)t n.t wAḏ.w ḏAr.t 3sh 3ḏ mrḥ.t
+Period: Late Period
+
+Text: 3ḥ3 zA =k ḥr ns.t =k 3pr m Er.w =k
+Period: Middle Kingdom
+
+Text: ppy nfr-kA-r3w pw gbb rʾ p3n (E)r(.E)-p3(.t)-ntjr.PL di̯.n (E)tm(.w) khnt psḏ.t ḥtp.w ntjr.PL ḥr ḏd.t =f
+Period: Middle Kingdom
+
+Text: zE ḏḥw.tE ḥn3 kA =f
+Period: Middle Kingdom
+
+Text: nn khnms n sxi̯ mA3.t
+Period: New Kingdom
+
+Text: Eri̯ mA3.t n nb mA3.t n.tE wn mA3.t n.t mA3.t =f
+Period: New Kingdom
+
+Text: tr shw.t =k wnn kh.t =k
+Period: New Kingdom
+
+Text: Erp Eshd nbs dAb EArr(.w)t sx.t wAḏ(.t)
+Period: Old Kingdom
+
+Text: mḏḥ.w-Enp.w-khnt(.E)-tA-ḏsr zḥ.E-ntjr-Enp.w zkhn.w-pr-wr-stx ḥm-ntjr-EgA.E ḥqA-ntjr zA-3b.t ḥm-ntjr-sshA.t kh3i̯-bA.w-zkr rn-3A
+Period: Old Kingdom
+
+Text: ḥ(n)q.t nḏm skhp.t xnw-3.DU bn(E).t wAḏ(.t) qAE Erp Erp-wA dAb nbs w3ḥ Eshd sx.t wAḏ(.t) EArr.(w)t sx.t ḥḏ(.t)
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: Ew qsn wn rʾ =f xr =s
+
+Answer:",New Kingdom
+shsA.w wbn.w m sp.t =f,Late Period,"You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given transliteration. Only respond with the name of the period.
+
+Examples:
+Text: ptE Er =f pA Eb E (E)ty 3nkh-(w)ḏA-s(nb) nb =E
+Period: Late Period
+
+Text: mri̯ =E Es st nA ḏd.y =k
+Period: Late Period
+
+Text: shs.(y)t n.t wAḏ.w ḏAr.t 3sh 3ḏ mrḥ.t
+Period: Late Period
+
+Text: 3ḥ3 zA =k ḥr ns.t =k 3pr m Er.w =k
+Period: Middle Kingdom
+
+Text: ppy nfr-kA-r3w pw gbb rʾ p3n (E)r(.E)-p3(.t)-ntjr.PL di̯.n (E)tm(.w) khnt psḏ.t ḥtp.w ntjr.PL ḥr ḏd.t =f
+Period: Middle Kingdom
+
+Text: zE ḏḥw.tE ḥn3 kA =f
+Period: Middle Kingdom
+
+Text: nn khnms n sxi̯ mA3.t
+Period: New Kingdom
+
+Text: Eri̯ mA3.t n nb mA3.t n.tE wn mA3.t n.t mA3.t =f
+Period: New Kingdom
+
+Text: tr shw.t =k wnn kh.t =k
+Period: New Kingdom
+
+Text: Erp Eshd nbs dAb EArr(.w)t sx.t wAḏ(.t)
+Period: Old Kingdom
+
+Text: mḏḥ.w-Enp.w-khnt(.E)-tA-ḏsr zḥ.E-ntjr-Enp.w zkhn.w-pr-wr-stx ḥm-ntjr-EgA.E ḥqA-ntjr zA-3b.t ḥm-ntjr-sshA.t kh3i̯-bA.w-zkr rn-3A
+Period: Old Kingdom
+
+Text: ḥ(n)q.t nḏm skhp.t xnw-3.DU bn(E).t wAḏ(.t) qAE Erp Erp-wA dAb nbs w3ḥ Eshd sx.t wAḏ(.t) EArr.(w)t sx.t ḥḏ(.t)
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: shsA.w wbn.w m sp.t =f
+
+Answer:",New Kingdom
+ḥA.tt sftj En kA shshE,Middle Kingdom,"You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given transliteration. Only respond with the name of the period.
+
+Examples:
+Text: ptE Er =f pA Eb E (E)ty 3nkh-(w)ḏA-s(nb) nb =E
+Period: Late Period
+
+Text: mri̯ =E Es st nA ḏd.y =k
+Period: Late Period
+
+Text: shs.(y)t n.t wAḏ.w ḏAr.t 3sh 3ḏ mrḥ.t
+Period: Late Period
+
+Text: 3ḥ3 zA =k ḥr ns.t =k 3pr m Er.w =k
+Period: Middle Kingdom
+
+Text: ppy nfr-kA-r3w pw gbb rʾ p3n (E)r(.E)-p3(.t)-ntjr.PL di̯.n (E)tm(.w) khnt psḏ.t ḥtp.w ntjr.PL ḥr ḏd.t =f
+Period: Middle Kingdom
+
+Text: zE ḏḥw.tE ḥn3 kA =f
+Period: Middle Kingdom
+
+Text: nn khnms n sxi̯ mA3.t
+Period: New Kingdom
+
+Text: Eri̯ mA3.t n nb mA3.t n.tE wn mA3.t n.t mA3.t =f
+Period: New Kingdom
+
+Text: tr shw.t =k wnn kh.t =k
+Period: New Kingdom
+
+Text: Erp Eshd nbs dAb EArr(.w)t sx.t wAḏ(.t)
+Period: Old Kingdom
+
+Text: mḏḥ.w-Enp.w-khnt(.E)-tA-ḏsr zḥ.E-ntjr-Enp.w zkhn.w-pr-wr-stx ḥm-ntjr-EgA.E ḥqA-ntjr zA-3b.t ḥm-ntjr-sshA.t kh3i̯-bA.w-zkr rn-3A
+Period: Old Kingdom
+
+Text: ḥ(n)q.t nḏm skhp.t xnw-3.DU bn(E).t wAḏ(.t) qAE Erp Erp-wA dAb nbs w3ḥ Eshd sx.t wAḏ(.t) EArr.(w)t sx.t ḥḏ(.t)
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: ḥA.tt sftj En kA shshE
+
+Answer:",Late Period
+ḥnq.t pzn tʾ khA mnkh.t khA shs khA,Middle Kingdom,"You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given transliteration. Only respond with the name of the period.
+
+Examples:
+Text: ptE Er =f pA Eb E (E)ty 3nkh-(w)ḏA-s(nb) nb =E
+Period: Late Period
+
+Text: mri̯ =E Es st nA ḏd.y =k
+Period: Late Period
+
+Text: shs.(y)t n.t wAḏ.w ḏAr.t 3sh 3ḏ mrḥ.t
+Period: Late Period
+
+Text: 3ḥ3 zA =k ḥr ns.t =k 3pr m Er.w =k
+Period: Middle Kingdom
+
+Text: ppy nfr-kA-r3w pw gbb rʾ p3n (E)r(.E)-p3(.t)-ntjr.PL di̯.n (E)tm(.w) khnt psḏ.t ḥtp.w ntjr.PL ḥr ḏd.t =f
+Period: Middle Kingdom
+
+Text: zE ḏḥw.tE ḥn3 kA =f
+Period: Middle Kingdom
+
+Text: nn khnms n sxi̯ mA3.t
+Period: New Kingdom
+
+Text: Eri̯ mA3.t n nb mA3.t n.tE wn mA3.t n.t mA3.t =f
+Period: New Kingdom
+
+Text: tr shw.t =k wnn kh.t =k
+Period: New Kingdom
+
+Text: Erp Eshd nbs dAb EArr(.w)t sx.t wAḏ(.t)
+Period: Old Kingdom
+
+Text: mḏḥ.w-Enp.w-khnt(.E)-tA-ḏsr zḥ.E-ntjr-Enp.w zkhn.w-pr-wr-stx ḥm-ntjr-EgA.E ḥqA-ntjr zA-3b.t ḥm-ntjr-sshA.t kh3i̯-bA.w-zkr rn-3A
+Period: Old Kingdom
+
+Text: ḥ(n)q.t nḏm skhp.t xnw-3.DU bn(E).t wAḏ(.t) qAE Erp Erp-wA dAb nbs w3ḥ Eshd sx.t wAḏ(.t) EArr.(w)t sx.t ḥḏ(.t)
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: ḥnq.t pzn tʾ khA mnkh.t khA shs khA
+
+Answer:",Middle Kingdom
+sgnn nḥb.t =f Em ḥn3 q3ḥ.DU =fE,Late Period,"You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given transliteration. Only respond with the name of the period.
+
+Examples:
+Text: ptE Er =f pA Eb E (E)ty 3nkh-(w)ḏA-s(nb) nb =E
+Period: Late Period
+
+Text: mri̯ =E Es st nA ḏd.y =k
+Period: Late Period
+
+Text: shs.(y)t n.t wAḏ.w ḏAr.t 3sh 3ḏ mrḥ.t
+Period: Late Period
+
+Text: 3ḥ3 zA =k ḥr ns.t =k 3pr m Er.w =k
+Period: Middle Kingdom
+
+Text: ppy nfr-kA-r3w pw gbb rʾ p3n (E)r(.E)-p3(.t)-ntjr.PL di̯.n (E)tm(.w) khnt psḏ.t ḥtp.w ntjr.PL ḥr ḏd.t =f
+Period: Middle Kingdom
+
+Text: zE ḏḥw.tE ḥn3 kA =f
+Period: Middle Kingdom
+
+Text: nn khnms n sxi̯ mA3.t
+Period: New Kingdom
+
+Text: Eri̯ mA3.t n nb mA3.t n.tE wn mA3.t n.t mA3.t =f
+Period: New Kingdom
+
+Text: tr shw.t =k wnn kh.t =k
+Period: New Kingdom
+
+Text: Erp Eshd nbs dAb EArr(.w)t sx.t wAḏ(.t)
+Period: Old Kingdom
+
+Text: mḏḥ.w-Enp.w-khnt(.E)-tA-ḏsr zḥ.E-ntjr-Enp.w zkhn.w-pr-wr-stx ḥm-ntjr-EgA.E ḥqA-ntjr zA-3b.t ḥm-ntjr-sshA.t kh3i̯-bA.w-zkr rn-3A
+Period: Old Kingdom
+
+Text: ḥ(n)q.t nḏm skhp.t xnw-3.DU bn(E).t wAḏ(.t) qAE Erp Erp-wA dAb nbs w3ḥ Eshd sx.t wAḏ(.t) EArr.(w)t sx.t ḥḏ(.t)
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: sgnn nḥb.t =f Em ḥn3 q3ḥ.DU =fE
+
+Answer:",Late Period
+mw.t-nswt =f sk s(E) khpi̯.t(E) mw.t =f (E)r(.E)t-(E)kh(.t)-nswt khnm.t EmAkh.(w)t-khr-ntjr-3A,Middle Kingdom,"You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given transliteration. Only respond with the name of the period.
+
+Examples:
+Text: ptE Er =f pA Eb E (E)ty 3nkh-(w)ḏA-s(nb) nb =E
+Period: Late Period
+
+Text: mri̯ =E Es st nA ḏd.y =k
+Period: Late Period
+
+Text: shs.(y)t n.t wAḏ.w ḏAr.t 3sh 3ḏ mrḥ.t
+Period: Late Period
+
+Text: 3ḥ3 zA =k ḥr ns.t =k 3pr m Er.w =k
+Period: Middle Kingdom
+
+Text: ppy nfr-kA-r3w pw gbb rʾ p3n (E)r(.E)-p3(.t)-ntjr.PL di̯.n (E)tm(.w) khnt psḏ.t ḥtp.w ntjr.PL ḥr ḏd.t =f
+Period: Middle Kingdom
+
+Text: zE ḏḥw.tE ḥn3 kA =f
+Period: Middle Kingdom
+
+Text: nn khnms n sxi̯ mA3.t
+Period: New Kingdom
+
+Text: Eri̯ mA3.t n nb mA3.t n.tE wn mA3.t n.t mA3.t =f
+Period: New Kingdom
+
+Text: tr shw.t =k wnn kh.t =k
+Period: New Kingdom
+
+Text: Erp Eshd nbs dAb EArr(.w)t sx.t wAḏ(.t)
+Period: Old Kingdom
+
+Text: mḏḥ.w-Enp.w-khnt(.E)-tA-ḏsr zḥ.E-ntjr-Enp.w zkhn.w-pr-wr-stx ḥm-ntjr-EgA.E ḥqA-ntjr zA-3b.t ḥm-ntjr-sshA.t kh3i̯-bA.w-zkr rn-3A
+Period: Old Kingdom
+
+Text: ḥ(n)q.t nḏm skhp.t xnw-3.DU bn(E).t wAḏ(.t) qAE Erp Erp-wA dAb nbs w3ḥ Eshd sx.t wAḏ(.t) EArr.(w)t sx.t ḥḏ(.t)
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: mw.t-nswt =f sk s(E) khpi̯.t(E) mw.t =f (E)r(.E)t-(E)kh(.t)-nswt khnm.t EmAkh.(w)t-khr-ntjr-3A
+
+Answer:",Late Period
+(E)r(.E)-(E)kh(.t)-nswt khrp-zḥ EmAkh.w-khr-nb=f Err-mr(r).t-nb=f pn-mrw,Middle Kingdom,"You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given transliteration. Only respond with the name of the period.
+
+Examples:
+Text: ptE Er =f pA Eb E (E)ty 3nkh-(w)ḏA-s(nb) nb =E
+Period: Late Period
+
+Text: mri̯ =E Es st nA ḏd.y =k
+Period: Late Period
+
+Text: shs.(y)t n.t wAḏ.w ḏAr.t 3sh 3ḏ mrḥ.t
+Period: Late Period
+
+Text: 3ḥ3 zA =k ḥr ns.t =k 3pr m Er.w =k
+Period: Middle Kingdom
+
+Text: ppy nfr-kA-r3w pw gbb rʾ p3n (E)r(.E)-p3(.t)-ntjr.PL di̯.n (E)tm(.w) khnt psḏ.t ḥtp.w ntjr.PL ḥr ḏd.t =f
+Period: Middle Kingdom
+
+Text: zE ḏḥw.tE ḥn3 kA =f
+Period: Middle Kingdom
+
+Text: nn khnms n sxi̯ mA3.t
+Period: New Kingdom
+
+Text: Eri̯ mA3.t n nb mA3.t n.tE wn mA3.t n.t mA3.t =f
+Period: New Kingdom
+
+Text: tr shw.t =k wnn kh.t =k
+Period: New Kingdom
+
+Text: Erp Eshd nbs dAb EArr(.w)t sx.t wAḏ(.t)
+Period: Old Kingdom
+
+Text: mḏḥ.w-Enp.w-khnt(.E)-tA-ḏsr zḥ.E-ntjr-Enp.w zkhn.w-pr-wr-stx ḥm-ntjr-EgA.E ḥqA-ntjr zA-3b.t ḥm-ntjr-sshA.t kh3i̯-bA.w-zkr rn-3A
+Period: Old Kingdom
+
+Text: ḥ(n)q.t nḏm skhp.t xnw-3.DU bn(E).t wAḏ(.t) qAE Erp Erp-wA dAb nbs w3ḥ Eshd sx.t wAḏ(.t) EArr.(w)t sx.t ḥḏ(.t)
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: (E)r(.E)-(E)kh(.t)-nswt khrp-zḥ EmAkh.w-khr-nb=f Err-mr(r).t-nb=f pn-mrw
+
+Answer:",Late Period
+ḥ(n)q.t nḏm xnw-3.DU skhp.t bn(E).t wAḏ(.t) qAE Erp EArr(.w)t dAb nbs w3ḥ Eshd sx.t wAḏ(.t) 3wg.t sx.t ḥḏ(.t),Old Kingdom,"You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given transliteration. Only respond with the name of the period.
+
+Examples:
+Text: ptE Er =f pA Eb E (E)ty 3nkh-(w)ḏA-s(nb) nb =E
+Period: Late Period
+
+Text: mri̯ =E Es st nA ḏd.y =k
+Period: Late Period
+
+Text: shs.(y)t n.t wAḏ.w ḏAr.t 3sh 3ḏ mrḥ.t
+Period: Late Period
+
+Text: 3ḥ3 zA =k ḥr ns.t =k 3pr m Er.w =k
+Period: Middle Kingdom
+
+Text: ppy nfr-kA-r3w pw gbb rʾ p3n (E)r(.E)-p3(.t)-ntjr.PL di̯.n (E)tm(.w) khnt psḏ.t ḥtp.w ntjr.PL ḥr ḏd.t =f
+Period: Middle Kingdom
+
+Text: zE ḏḥw.tE ḥn3 kA =f
+Period: Middle Kingdom
+
+Text: nn khnms n sxi̯ mA3.t
+Period: New Kingdom
+
+Text: Eri̯ mA3.t n nb mA3.t n.tE wn mA3.t n.t mA3.t =f
+Period: New Kingdom
+
+Text: tr shw.t =k wnn kh.t =k
+Period: New Kingdom
+
+Text: Erp Eshd nbs dAb EArr(.w)t sx.t wAḏ(.t)
+Period: Old Kingdom
+
+Text: mḏḥ.w-Enp.w-khnt(.E)-tA-ḏsr zḥ.E-ntjr-Enp.w zkhn.w-pr-wr-stx ḥm-ntjr-EgA.E ḥqA-ntjr zA-3b.t ḥm-ntjr-sshA.t kh3i̯-bA.w-zkr rn-3A
+Period: Old Kingdom
+
+Text: ḥ(n)q.t nḏm skhp.t xnw-3.DU bn(E).t wAḏ(.t) qAE Erp Erp-wA dAb nbs w3ḥ Eshd sx.t wAḏ(.t) EArr.(w)t sx.t ḥḏ(.t)
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: ḥ(n)q.t nḏm xnw-3.DU skhp.t bn(E).t wAḏ(.t) qAE Erp EArr(.w)t dAb nbs w3ḥ Eshd sx.t wAḏ(.t) 3wg.t sx.t ḥḏ(.t)
+
+Answer:",Old Kingdom
+ḥbs =k bA ḥbs =k khsdḏ,Middle Kingdom,"You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given transliteration. Only respond with the name of the period.
+
+Examples:
+Text: ptE Er =f pA Eb E (E)ty 3nkh-(w)ḏA-s(nb) nb =E
+Period: Late Period
+
+Text: mri̯ =E Es st nA ḏd.y =k
+Period: Late Period
+
+Text: shs.(y)t n.t wAḏ.w ḏAr.t 3sh 3ḏ mrḥ.t
+Period: Late Period
+
+Text: 3ḥ3 zA =k ḥr ns.t =k 3pr m Er.w =k
+Period: Middle Kingdom
+
+Text: ppy nfr-kA-r3w pw gbb rʾ p3n (E)r(.E)-p3(.t)-ntjr.PL di̯.n (E)tm(.w) khnt psḏ.t ḥtp.w ntjr.PL ḥr ḏd.t =f
+Period: Middle Kingdom
+
+Text: zE ḏḥw.tE ḥn3 kA =f
+Period: Middle Kingdom
+
+Text: nn khnms n sxi̯ mA3.t
+Period: New Kingdom
+
+Text: Eri̯ mA3.t n nb mA3.t n.tE wn mA3.t n.t mA3.t =f
+Period: New Kingdom
+
+Text: tr shw.t =k wnn kh.t =k
+Period: New Kingdom
+
+Text: Erp Eshd nbs dAb EArr(.w)t sx.t wAḏ(.t)
+Period: Old Kingdom
+
+Text: mḏḥ.w-Enp.w-khnt(.E)-tA-ḏsr zḥ.E-ntjr-Enp.w zkhn.w-pr-wr-stx ḥm-ntjr-EgA.E ḥqA-ntjr zA-3b.t ḥm-ntjr-sshA.t kh3i̯-bA.w-zkr rn-3A
+Period: Old Kingdom
+
+Text: ḥ(n)q.t nḏm skhp.t xnw-3.DU bn(E).t wAḏ(.t) qAE Erp Erp-wA dAb nbs w3ḥ Eshd sx.t wAḏ(.t) EArr.(w)t sx.t ḥḏ(.t)
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: ḥbs =k bA ḥbs =k khsdḏ
+
+Answer:",New Kingdom
+r-(E)kh.t w3r.t tn Eri̯.t.n bAk-Em m khm =f,New Kingdom,"You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given transliteration. Only respond with the name of the period.
+
+Examples:
+Text: ptE Er =f pA Eb E (E)ty 3nkh-(w)ḏA-s(nb) nb =E
+Period: Late Period
+
+Text: mri̯ =E Es st nA ḏd.y =k
+Period: Late Period
+
+Text: shs.(y)t n.t wAḏ.w ḏAr.t 3sh 3ḏ mrḥ.t
+Period: Late Period
+
+Text: 3ḥ3 zA =k ḥr ns.t =k 3pr m Er.w =k
+Period: Middle Kingdom
+
+Text: ppy nfr-kA-r3w pw gbb rʾ p3n (E)r(.E)-p3(.t)-ntjr.PL di̯.n (E)tm(.w) khnt psḏ.t ḥtp.w ntjr.PL ḥr ḏd.t =f
+Period: Middle Kingdom
+
+Text: zE ḏḥw.tE ḥn3 kA =f
+Period: Middle Kingdom
+
+Text: nn khnms n sxi̯ mA3.t
+Period: New Kingdom
+
+Text: Eri̯ mA3.t n nb mA3.t n.tE wn mA3.t n.t mA3.t =f
+Period: New Kingdom
+
+Text: tr shw.t =k wnn kh.t =k
+Period: New Kingdom
+
+Text: Erp Eshd nbs dAb EArr(.w)t sx.t wAḏ(.t)
+Period: Old Kingdom
+
+Text: mḏḥ.w-Enp.w-khnt(.E)-tA-ḏsr zḥ.E-ntjr-Enp.w zkhn.w-pr-wr-stx ḥm-ntjr-EgA.E ḥqA-ntjr zA-3b.t ḥm-ntjr-sshA.t kh3i̯-bA.w-zkr rn-3A
+Period: Old Kingdom
+
+Text: ḥ(n)q.t nḏm skhp.t xnw-3.DU bn(E).t wAḏ(.t) qAE Erp Erp-wA dAb nbs w3ḥ Eshd sx.t wAḏ(.t) EArr.(w)t sx.t ḥḏ(.t)
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: r-(E)kh.t w3r.t tn Eri̯.t.n bAk-Em m khm =f
+
+Answer:",Late Period
+ntf ḏḏ n =f st,New Kingdom,"You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given transliteration. Only respond with the name of the period.
+
+Examples:
+Text: ptE Er =f pA Eb E (E)ty 3nkh-(w)ḏA-s(nb) nb =E
+Period: Late Period
+
+Text: mri̯ =E Es st nA ḏd.y =k
+Period: Late Period
+
+Text: shs.(y)t n.t wAḏ.w ḏAr.t 3sh 3ḏ mrḥ.t
+Period: Late Period
+
+Text: 3ḥ3 zA =k ḥr ns.t =k 3pr m Er.w =k
+Period: Middle Kingdom
+
+Text: ppy nfr-kA-r3w pw gbb rʾ p3n (E)r(.E)-p3(.t)-ntjr.PL di̯.n (E)tm(.w) khnt psḏ.t ḥtp.w ntjr.PL ḥr ḏd.t =f
+Period: Middle Kingdom
+
+Text: zE ḏḥw.tE ḥn3 kA =f
+Period: Middle Kingdom
+
+Text: nn khnms n sxi̯ mA3.t
+Period: New Kingdom
+
+Text: Eri̯ mA3.t n nb mA3.t n.tE wn mA3.t n.t mA3.t =f
+Period: New Kingdom
+
+Text: tr shw.t =k wnn kh.t =k
+Period: New Kingdom
+
+Text: Erp Eshd nbs dAb EArr(.w)t sx.t wAḏ(.t)
+Period: Old Kingdom
+
+Text: mḏḥ.w-Enp.w-khnt(.E)-tA-ḏsr zḥ.E-ntjr-Enp.w zkhn.w-pr-wr-stx ḥm-ntjr-EgA.E ḥqA-ntjr zA-3b.t ḥm-ntjr-sshA.t kh3i̯-bA.w-zkr rn-3A
+Period: Old Kingdom
+
+Text: ḥ(n)q.t nḏm skhp.t xnw-3.DU bn(E).t wAḏ(.t) qAE Erp Erp-wA dAb nbs w3ḥ Eshd sx.t wAḏ(.t) EArr.(w)t sx.t ḥḏ(.t)
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: ntf ḏḏ n =f st
+
+Answer:",Middle Kingdom
+Ash ḏi̯ 3nkh wAs ḏd ḏ.t,Old Kingdom,"You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given transliteration. Only respond with the name of the period.
+
+Examples:
+Text: ptE Er =f pA Eb E (E)ty 3nkh-(w)ḏA-s(nb) nb =E
+Period: Late Period
+
+Text: mri̯ =E Es st nA ḏd.y =k
+Period: Late Period
+
+Text: shs.(y)t n.t wAḏ.w ḏAr.t 3sh 3ḏ mrḥ.t
+Period: Late Period
+
+Text: 3ḥ3 zA =k ḥr ns.t =k 3pr m Er.w =k
+Period: Middle Kingdom
+
+Text: ppy nfr-kA-r3w pw gbb rʾ p3n (E)r(.E)-p3(.t)-ntjr.PL di̯.n (E)tm(.w) khnt psḏ.t ḥtp.w ntjr.PL ḥr ḏd.t =f
+Period: Middle Kingdom
+
+Text: zE ḏḥw.tE ḥn3 kA =f
+Period: Middle Kingdom
+
+Text: nn khnms n sxi̯ mA3.t
+Period: New Kingdom
+
+Text: Eri̯ mA3.t n nb mA3.t n.tE wn mA3.t n.t mA3.t =f
+Period: New Kingdom
+
+Text: tr shw.t =k wnn kh.t =k
+Period: New Kingdom
+
+Text: Erp Eshd nbs dAb EArr(.w)t sx.t wAḏ(.t)
+Period: Old Kingdom
+
+Text: mḏḥ.w-Enp.w-khnt(.E)-tA-ḏsr zḥ.E-ntjr-Enp.w zkhn.w-pr-wr-stx ḥm-ntjr-EgA.E ḥqA-ntjr zA-3b.t ḥm-ntjr-sshA.t kh3i̯-bA.w-zkr rn-3A
+Period: Old Kingdom
+
+Text: ḥ(n)q.t nḏm skhp.t xnw-3.DU bn(E).t wAḏ(.t) qAE Erp Erp-wA dAb nbs w3ḥ Eshd sx.t wAḏ(.t) EArr.(w)t sx.t ḥḏ(.t)
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: Ash ḏi̯ 3nkh wAs ḏd ḏ.t
+
+Answer:",New Kingdom
+ntjr pn ḥr wshd =E khnm.w,New Kingdom,"You are a historian of ancient Egyptian texts. Based on the following examples, classify the period of the given transliteration. Only respond with the name of the period.
+
+Examples:
+Text: ptE Er =f pA Eb E (E)ty 3nkh-(w)ḏA-s(nb) nb =E
+Period: Late Period
+
+Text: mri̯ =E Es st nA ḏd.y =k
+Period: Late Period
+
+Text: shs.(y)t n.t wAḏ.w ḏAr.t 3sh 3ḏ mrḥ.t
+Period: Late Period
+
+Text: 3ḥ3 zA =k ḥr ns.t =k 3pr m Er.w =k
+Period: Middle Kingdom
+
+Text: ppy nfr-kA-r3w pw gbb rʾ p3n (E)r(.E)-p3(.t)-ntjr.PL di̯.n (E)tm(.w) khnt psḏ.t ḥtp.w ntjr.PL ḥr ḏd.t =f
+Period: Middle Kingdom
+
+Text: zE ḏḥw.tE ḥn3 kA =f
+Period: Middle Kingdom
+
+Text: nn khnms n sxi̯ mA3.t
+Period: New Kingdom
+
+Text: Eri̯ mA3.t n nb mA3.t n.tE wn mA3.t n.t mA3.t =f
+Period: New Kingdom
+
+Text: tr shw.t =k wnn kh.t =k
+Period: New Kingdom
+
+Text: Erp Eshd nbs dAb EArr(.w)t sx.t wAḏ(.t)
+Period: Old Kingdom
+
+Text: mḏḥ.w-Enp.w-khnt(.E)-tA-ḏsr zḥ.E-ntjr-Enp.w zkhn.w-pr-wr-stx ḥm-ntjr-EgA.E ḥqA-ntjr zA-3b.t ḥm-ntjr-sshA.t kh3i̯-bA.w-zkr rn-3A
+Period: Old Kingdom
+
+Text: ḥ(n)q.t nḏm skhp.t xnw-3.DU bn(E).t wAḏ(.t) qAE Erp Erp-wA dAb nbs w3ḥ Eshd sx.t wAḏ(.t) EArr.(w)t sx.t ḥḏ(.t)
+Period: Old Kingdom
+
+Now, classify this text:
+
+Text: ntjr pn ḥr wshd =E khnm.w
+
+Answer:",Late Period
